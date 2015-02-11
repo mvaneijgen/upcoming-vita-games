@@ -6,8 +6,8 @@
 </description>
     <link>http://opentheme.co/</link>
     <atom:link href="http://opentheme.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Feb 2015 16:35:24 +0100</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2015 16:35:24 +0100</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2015 16:39:22 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2015 16:39:22 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -556,7 +556,7 @@ Page variables are also available. Title for this post is &lt;strong&gt;Starter 
 
 &lt;p&gt;Here is an example of a Tweet announcing OpenTheme.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Create Awesome Websites on GitHub for Free! &lt;a href=&quot;http://t.co/tXj8H17vZE&quot;&gt;http://t.co/tXj8H17vZE&lt;/a&gt; &lt;a href=&quot;http://t.co/2VCbLf0KrL&quot;&gt;pic.twitter.com/2VCbLf0KrL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Manav Sehgal (@manavsehgal) &lt;a href=&quot;https://twitter.com/manavsehgal/status/539376525720977410&quot;&gt;December 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Create Awesome Websites on GitHub for Free! &lt;a href=&quot;http://t.co/tXj8H17vZE&quot;&gt;http://t.co/tXj8H17vZE&lt;/a&gt; &lt;a href=&quot;http://t.co/2VCbLf0KrL&quot;&gt;pic.twitter.com/2VCbLf0KrL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Manav Sehgal (@mvaneijgen) &lt;a href=&quot;https://twitter.com/mvaneijgen/status/539376525720977410&quot;&gt;December 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Tweet embed can be copied straight from Twitter embed link within a Tweet.&lt;/p&gt;

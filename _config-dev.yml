@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "url:". One indent required
 # the base hostname & protocol for your site
 url: "http://opentheme.co"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: mvaneijgen
+github_username:  mvaneijgen
 
 default_image: /img/opentheme-workflow.png
 
