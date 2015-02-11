@@ -1,141 +1,105 @@
-  # Official name of embed
-- name: Embedded Tweets
+ # Official name of embed
+  # - name: Embedded Tweets
   # Description of embed
-  about: An Embedded Tweet brings brings the best content created on Twitter into your article or website.
+  # about: An Embedded Tweet brings brings the best content created on Twitter into your article or website.
   # Social, News, Doc, RSS, Video, Photo, Graphic, Map
-  group: Social    
+  # group: Social    
   # Image used in card view
-  image: /img/embed/twitter-bird.jpg
+  # image: /img/embed/twitter-bird.jpg
   # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
-  icon: twitter            
+  # icon: twitter            
   # Site, Layout, Post configurable. None, if per use case.
-  scope: None     
+  # scope: None     
   # true/false = Is the embed UI responsive
-  responsive: true
+  # responsive: true
   # Does the embed work well on Jekyll and Github Pages
-  jekyll_friendly: true
+  # jekyll_friendly: true
   # Rating based on popularity, features
-  rating: 5                 
+  # rating: 5                 
   # Link to to create embed
-  create: https://twitter.com/              
+  # create: https://twitter.com/              
   # Link to embed docs
-  docs: https://dev.twitter.com/web/embedded-tweets               
+  # docs: https://dev.twitter.com/web/embedded-tweets               
   # URL to usecase
-  usecase: /theme/2014/11/29/starter-post-twitter-embed/
+  # usecase: /theme/2014/11/29/starter-post-twitter-embed/
 
-- name: AddThis Social Buttons
-  about: Social sharing buttons from AddThis service. Fast, configurable, responsive social sharing buttons.
-  group: Social
-  image: /img/embed/addthis.png
-  icon: facebook
-  scope: Site
-  responsive: true
-  jekyll_friendly: true
-  rating: 5
-  create: https://www.addthis.com/dashboard              
-  docs: https://www.addthis.com/blog              
-  
-  
-- name: Disqus Social
-  about: If you’re passionate about writing and sharing, Disqus helps you build an active community.
-  group: Social
-  image: /img/embed/disqus-splash.png
-  icon: share alternate square
-  scope: Site
-  responsive: true
-  jekyll_friendly: true
-  rating: 4
-  create: https://disqus.com/admin/signup/?utm_source=New-Site              
-  docs: https://disqus.com/websites/               
-  usecase: /workflow/2014/11/26/open-cloud-based-workflow-for-designing-your-website/
+- name: 99bricks
+  about: 99 Bricks Wizard Academy is a fun and fast paced endless physics builder.
+  gerne: Puzzle
+  image: http://i.imgur.com/ZeIVTTy.jpg
+  gamewebsite: http://99bricks.net  
+  devwebsite: http://weirdbeard.nl
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: YouTube Video
-  about: Embed YouTube video player using custom OpenTheme embed tag. Player features are site configurable. 
-  group: Video
-  image: /img/embed/youtube-splash.png
-  icon: film
-  scope: Post
-  responsive: false
-  jekyll_friendly: true
-  rating: 5
-  create: https://www.youtube.com/              
-  docs: https://support.google.com/youtube/answer/171780?hl=en               
-  usecase: /theme/2014/11/24/starter-post-media-embed/
+- name: Moon Hunters
+  about: Moon Hunters could be described as a mythology generator. Many games have tackled the goal of exploring a fantastical kingdom
+  gerne: RPG
+  image: http://i.imgur.com/wIE1oSO.gif
+  gamewebsite: http://www.moonhuntersgame.com
+  devwebsite: http://www.kitfoxgames.com
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: UserVoice
-  about: User feedback, idea voting, customer helpdesk and support widget that can be added to any page.
-  group: Social
-  image: /img/embed/uservoice.png
-  icon: announcement
-  scope: Site
-  responsive: true
-  jekyll_friendly: true
-  rating: 5
-  create: https://www.uservoice.com/              
-  docs: https://developer.uservoice.com/              
-  usecase: /apps/
+- name: Towerfall Ascension
+  about: TowerFall is an archery combat platformer for up to 4 players
+  gerne: platformer
+  image: http://i.imgur.com/nbMQp3o.jpg
+  gamewebsite: http://www.towerfall-game.com
+  devwebsite: http://www.mattmakesgames.com
+  dateadd: 2015-02-11
+  releasedate: 2015-04-00
 
-- name: Google Map
-  about: You can embed Google maps using custom embed created for OpenTheme. Just provide location.
-  group: Map
-  image: /img/embed/map.png
-  icon: pin
-  scope: Post
-  responsive: true
-  jekyll_friendly: true
-  rating: 5
-  create: https://developers.google.com/maps/documentation/embed/start              
-  docs: https://developers.google.com/maps/documentation/embed/guide             
-  usecase: /theme/2014/12/05/starter-post-google-map-embed/
+- name: Drift Stage
+  about: Drift Stage is a modern evolution of the classic arcade racer
+  gerne: Race
+  image: http://i.imgur.com/dDO8d9D.jpeg
+  gamewebsite: http://www.driftstagegame.com
+  devwebsite: http://www.driftstagegame.com
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: Panoramio Maps
-  about: Add geo-tagged photo search to maps, along with autocomplete places search. Reusable layout.
-  group: Map
-  image: /img/embed/panoramio.png
-  icon: pin
-  scope: Layout
-  responsive: true
-  jekyll_friendly: true
-  rating: 5
-  create: /panoramio/              
-  docs: https://developers.google.com/maps/documentation/embed/start             
-  usecase: /panoramio/
+- name: Scram Kitty DX 
+  about: enhanced version of last years critical hit Scram Kitty and his Buddy on Rails
+  gerne: action
+  image: http://i.imgur.com/bTssTHI.png
+  gamewebsite: http://www.dakkodakko.com/site/
+  devwebsite: http://www.dakkodakko.com/site/
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: MailChimp
-  about: Add MailChimp signup forms with OpenTheme UI. Reuse across site with text variations.
-  group: Mail
-  image: /img/embed/mailchimp.png
-  icon: mail
-  scope: Post
-  responsive: true
-  jekyll_friendly: true
-  rating: 3
-  create: http://mailchimp.com/              
-  docs: http://mailchimp.com/resources/             
-  usecase: http://opentheme.co
+- name: LEGO Avengers
+  about: Avengers Assemble! Experience the first console video game featuring characters and storylines from the blockbuster film Marvel
+  gerne: Adventure
+  image: http://i.imgur.com/xN3AvhA.png
+  gamewebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
+  devwebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: FlexSlider
-  about: An awesome, fully responsive jQuery slider toolkit. Custom OpenTheme layout, include, and demo. 
-  group: Media
-  image: /img/embed/flexslider.png
-  icon: play
-  scope: Layout
-  responsive: true
-  jekyll_friendly: true
-  rating: 4
-  create: /apps/              
-  docs: http://www.woothemes.com/flexslider/             
-  usecase: /apps/
+- name: LEGO Jurassic World
+  about: An adventure 65 million years in the making - now in classic LEGO brick fun!
+  gerne: Adventure
+  image: http://i.imgur.com/aSngVWi.png
+  gamewebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
+  devwebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
+  dateadd: 2015-02-11
+  releasedate: 
 
-- name: Google Custom Search
-  about: Google custom search engine enables powerful search features for GitHub Pages websites. 
-  group: Search
-  image: /img/embed/google-cse.png
-  icon: search
-  scope: Site
-  responsive: true
-  jekyll_friendly: true
-  rating: 5
-  create: https://www.google.co.in/cse/all              
-  docs: https://www.google.co.in/cse/docs/all             
-  usecase: "/search/?q=theme"
+- name: Badland
+  about: BADLAND is a multi-award-winning side-scrolling action adventure game with innovative physics-based gameplay
+  gerne: Adventure
+  image: http://i.imgur.com/UAfUlPY.jpeg
+  gamewebsite: http://www.badlandgame.com
+  devwebsite: http://www.badlandgame.com/badland-game/
+  dateadd: 2015-02-11
+  releasedate: 2015-04-00
+
+- name: World Rally Championship (WRC) 5
+  about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
+  gerne: Race
+  image: http://i.imgur.com/tXtrHsl.png
+  gamewebsite: http://www.badlandgame.com
+  devwebsite: http://www.wrc.com/en/
+  dateadd: 2015-02-11
+  releasedate: 

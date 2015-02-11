@@ -51,3 +51,13 @@
   }
 
 }
+@media only screen and (min-width : 768px) {
+  .description {
+  height: 115px;
+  overflow: hidden;
+}
+
+.column .dimmable.image img {
+  height: 180px !important;
+}
+}
