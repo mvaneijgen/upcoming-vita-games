@@ -1,0 +1,535 @@
+    <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head prefix="og: http://ogp.me/ns#">
+
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+  <!-- Refer HTML5BP and https://developers.google.com/speed/docs/insights/ConfigureViewport -->
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  
+  <!-- Site Properities -->
+  
+    
+  
+  
+  <title>Google Maps Panoramio Demo &middot; Powerful New Theme for GitHub Pages | OpenTheme.co</title>
+  <link rel="canonical" href="http://opentheme.co/panoramio/">
+  
+  <!-- Open Graph. Refer https://developers.facebook.com/docs/web/tutorials/scrumptious/open-graph-object -->
+  
+  
+  <meta property="og:locale" content="en_US">
+  <meta property="og:url" content="http://opentheme.co/panoramio/">
+  <meta property="og:title" content="Google Maps Panoramio Demo">
+  <meta property="og:site_name" content="Powerful New Theme for GitHub Pages | OpenTheme.co">
+  <meta property="og:description" content="Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.">
+  <meta property="og:image" content="http://opentheme.co/img/embed/panoramio.png">
+  <meta property="og:image:width" content="640">
+  <meta property="og:image:height" content="300">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@open_theme">
+  <meta name="twitter:creator" content="@manavsehgal">
+  
+  
+  <meta property="og:type" content="website" />
+  
+  
+  <meta name="description" content="Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.">
+  <meta name="keywords" content="open theme, github pages, semantic ui, single page apps">
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  
+  <!-- Common Styles -->
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.5.0/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+  
+  
+  <script>
+  var _prum = [['id', '54a97d8aabe53daf361855a6'],
+               ['mark', 'firstbyte', (new Date()).getTime()]];
+  (function() {
+      var s = document.getElementsByTagName('script')[0]
+        , p = document.createElement('script');
+      p.async = 'async';
+      p.src = '//rum-static.pingdom.net/prum.min.js';
+      s.parentNode.insertBefore(p, s);
+  })();
+  </script>
+  
+    
+    <style>
+    #map-canvas {
+      height: 450px;
+      margin-bottom: 20px;
+      padding: 0px
+    }
+    
+    #target {
+          width: 345px;
+        }
+    
+    .panoramio .controls {
+      margin-top: 16px;
+      margin-bottom: 16px;
+      border: 1px solid transparent;
+      border-radius: 2px 0 0 2px;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      height: 32px;
+      outline: none;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    }
+    
+    #tag, #pac-input {
+      background-color: #fff;
+      padding: 0 11px 0 13px;
+      width: 250px;
+      font-family: Roboto;
+      font-size: 15px;
+      font-weight: 300;
+      text-overflow: ellipsis;
+    }
+    
+    #tag:focus, #pac-input:focus {
+      border-color: #4d90fe;
+      margin-left: -1px;
+      padding-left: 14px;  /* Regular padding-left + 1. */
+      width: 251px;
+    }
+    
+    .panoramio .pac-container {
+      font-family: Roboto;
+    }
+    
+    #type-selector {
+      color: #fff;
+      background-color: #4d90fe;
+      padding: 5px 11px 0px 11px;
+    }
+    
+    #type-selector label {
+      font-family: Roboto;
+      font-size: 13px;
+      font-weight: 300;
+    }
+    </style>
+
+
+  </head>
+
+  <body class="global landing panoramio">
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    
+
+    
+    <div class="ui right vertical sidebar menu">
+    <div class="item">
+      <div class="ui transparent mini icon input">
+        <input type="text" placeholder="Search..." class="menu-search">
+        <i class="search link icon"></i>
+      </div>
+    </div>
+
+    <a class="item" href="https://github.com/open-start/opentheme">
+    <i class="download icon"></i>
+    Get OpenTheme
+    </a>
+
+    <a class="item" href="/metrics/">
+    <i class="dashboard icon"></i>
+    Metrics <span class="ui teal mini label">New</span>
+    </a>
+    <a class="item" href="/apps/">
+    <i class="cube icon"></i>
+    Apps <span class="ui blue mini label">4</span>
+    </a>
+    <a class="item" href="/blog/">
+    <i class="comments icon"></i>
+    Blog
+    </a>
+    <a class="item" href="/embeds/">
+    <i class="wizard icon"></i>
+    Plugin Embeds <span class="ui purple mini label">10</span>
+    </a>
+    <a class="item" href="/panoramio/">
+    <i class="pin icon"></i>
+    Panoramio Map
+    </a>
+    <a class="item" href="/tag/">
+    <i class="tags icon"></i>
+    Tag Browser
+    </a>
+    <a class="item" href="/category/">
+    <i class="bookmark icon"></i>
+    Category List
+    </a>
+    <a class="item" href="/kitchensink/">
+    <i class="block layout icon"></i>
+    Kitchen Sink
+    </a>
+</div>
+
+    <div class="pusher">
+    
+        <!-- masthead -->
+<div class="ui masthead segment blue-round-gradient">
+  <div class="ui page grid">
+    <div class="column">
+        
+        <div class="ui menu">
+  <a class="header item" href="/">OpenTheme</a>
+  <div class="right menu">
+    <a class="item menu-details " href="/metrics/" data-position="bottom left" data-content="Metrics and Analytics"><i class="icon dashboard"></i></a>
+    <a class="item menu-details " href="/blog/" data-position="bottom left" data-content="Tutorials and Blog"><i class="icon comments"></i></a>
+    <a class="item menu-details " href="/apps/" data-position="bottom left" data-content="Hybrid App Demos"><i class="icon cube"></i></a>
+    <a class="item menu-details " href="/embeds/" data-position="bottom left" data-content="Reusable Embed Plugins"><i class="wizard icon"></i></a>
+    <div class="item">
+      <div class="ui transparent mini icon input">
+        <input type="text" placeholder="Search..." class="menu-search">
+        <i class="search link icon"></i>
+      </div>
+    </div>
+    
+      <a class="mobile item pagebar" href="#"><i class="icon content"></i></a>
+      <a class="item pagebar" href="#"><i class="icon content"></i></a>
+    
+  </div>
+</div>
+
+        
+        <!-- information -->
+        <div class="ui information">
+          <h1 class="header-3d">Google Maps Panoramio Demo</h1>
+          <h2 class="slim-header-light">Add geo-tagged image search, places search to a map.</h2>
+        </div> 
+        <!-- /information -->
+    </div>
+  </div>
+</div>
+<!-- /masthead -->
+
+        <div class="ui vertical segment">
+  <div class="ui page grid">
+    <div class="column">
+      <p>Example of map with three ways to discover content. Search by location (try <i>Empire State Building</i>) 
+      or type of location (try <i>indian restaurant</i>) to see icons on map. 
+      Zoom out to see photos geo-tagged to the location. 
+      Then filter photos by tag (try <i>building</i>). Click on a photo to see details.</p>
+      <div id="map-canvas"></div>
+      <input id="pac-input" class="controls" type="text" placeholder="Search Location">
+      <input id="tag" class="controls" type="text" placeholder="Filter Photo Tag">
+    </div>
+  </div>
+</div>
+        <div class="ui inverted footer vertical segment">
+  <div class="ui stackable page grid">
+    <div class="ten wide column">
+      <div class="ui three column stackable grid">
+        <div class="column">
+          <h5 class="ui inverted header">Theme</h5>
+          <div class="ui inverted link list">
+            <a class="item" href="/blog/">Blog</a>
+            <a class="item" href="/category/#theme">Theme Features</a>
+            <a class="item" href="/tag/#embeds">Embed Plugins</a>
+          </div>
+        </div>
+        <div class="column">
+          <h5 class="ui inverted header">Design</h5>
+          <div class="ui inverted link list">
+            <a class="item" href="/theme/2014/12/15/content-strategy-for-startup-websites/">Content Strategy</a>
+            <a class="item" href="/kitchensink/">Semantic UI Examples</a>
+            <a class="item" href="http://semantic-ui.com/">Semantic UI Site</a>
+          </div>
+        </div>
+        <div class="column">
+          <h5 class="ui inverted header">GitHub</h5>
+          <div class="ui inverted link list">
+            <a class="item" href="https://github.com/open-start/opentheme">Get OpenTheme</a>
+            <a class="item" href="/workflow/2014/11/26/open-cloud-based-workflow-for-designing-your-website/">Cloud Workflow</a>
+            <a class="item" href="/theme/2014/12/02/data-driven-web-apps-using-github/">Data Apps</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="six wide column">
+      <div class="ui two column stackable grid">
+        <div class="column">
+          <h5 class="ui inverted header">Social</h5>
+          <div class="ui inverted link list">
+            <a class="item" href="https://twitter.com/manavsehgal"><i class="twitter icon"></i> Twitter</a>
+            <a class="item" href="https://github.com/manavsehgal"><i class="github icon"></i> GitHub</a>
+            <a class="item" href="http://opentheme.co/feed.xml"><i class="rss icon"></i> Feed</a>
+          </div>
+        </div>
+        <div class="column">
+          <h5 class="ui inverted header">Contact Us</h5>
+          <addr>
+            123 Your Address Here <br>
+            State, City <br>
+          </addr>
+          <p>(000) 123-4567</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="ui center aligned segment copyright">
+  <i class="world icon"></i> Copyright &copy; 2015, Manav Sehgal.
+</div>
+
+    
+    </div>
+    
+    
+    
+<!-- Cannot make async calls for jQuery or Semantic. Breaks Cards, Page Bar, others. -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.5.0/semantic.min.js"></script>
+
+<script>
+$(document)
+  .ready(function() {
+
+/*******************************
+          Global
+*******************************/
+
+   $('.menu-search').bind('change', function () {
+        var search_string = $(this).val(); // get value
+        var url = '/search/?q=' + search_string
+        if (url) { // require a URL
+            window.location = url; // redirect
+        }
+        return false;
+    });
+
+    $('.sidebar').first()
+      .sidebar('attach events', '.pagebar');
+    
+    $('.pagebar')
+      .removeClass('disabled');
+
+/*******************************
+          Cards
+*******************************/
+
+
+    $('.special.cards .image').dimmer({
+      on: 'hover'
+    });
+    
+    $('.ui.rating')
+      .rating({
+        maxRating: 5
+      });
+
+    $('.ui.rating')
+      .rating('disable');
+      
+    $('.embed-features')
+      .popup();
+
+    $('.menu-details')
+      .popup();
+
+});  
+</script>
+
+
+<script>
+// Include the UserVoice JavaScript SDK (only needed once on a page)
+UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/nvdgD40UtxnMoshpVHYxg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+
+//
+// UserVoice Javascript SDK developer documentation:
+// https://www.uservoice.com/o/javascript-sdk
+//
+
+// Set colors
+UserVoice.push(['set', {
+  accent_color: '#448dd6',
+  trigger_color: 'white',
+  trigger_background_color: 'rgba(46, 49, 51, 0.6)'
+}]);
+
+// Identify the user and pass traits
+// To enable, replace sample data with actual user traits and uncomment the line
+UserVoice.push(['identify', {
+  //email:      'john.doe@example.com', // User’s email address
+  //name:       'John Doe', // User’s real name
+  //created_at: 1364406966, // Unix timestamp for the date the user signed up
+  //id:         123, // Optional: Unique id of the user (if set, this should not change)
+  //type:       'Owner', // Optional: segment your users by type
+  //account: {
+  //  id:           123, // Optional: associate multiple users with a single account
+  //  name:         'Acme, Co.', // Account name
+  //  created_at:   1364406966, // Unix timestamp for the date the account was created
+  //  monthly_rate: 9.99, // Decimal; monthly rate of the account
+  //  ltv:          1495.00, // Decimal; lifetime value of the account
+  //  plan:         'Enhanced' // Plan name for the account
+  //}
+}]);
+
+// Add default trigger to the bottom-right corner of the window:
+UserVoice.push(['addTrigger', { mode: 'smartvote', trigger_position: 'bottom-right' }]);
+
+// Or, use your own custom trigger:
+//UserVoice.push(['addTrigger', '#id', { mode: 'smartvote' }]);
+
+// Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
+UserVoice.push(['autoprompt', {}]);
+</script>
+
+    <!-- Google Maps -->
+    <script src="//maps.googleapis.com/maps/api/js?v=3.exp&libraries=panoramio,places"></script>
+    <script src="//ssl.panoramio.com/wapi/wapi.js?v=1"></script>
+    <script>
+    function initialize() {
+      // The photoDiv defines the DIV within the info window for
+      // displaying the Panoramio photo within its PhotoWidget.
+      var photoDiv =  document.createElement('div');
+    
+      // The PhotoWidget width and height are expressed as number values,
+      // not string values.
+      var photoWidgetOptions = {
+        width: 440,
+        height: 300
+      };
+    
+      // We construct a PhotoWidget here with a blank (null) request as we
+      // don't yet have a photo to populate it.
+      var photoWidget = new panoramio.PhotoWidget(photoDiv, null,
+          photoWidgetOptions);
+    
+      var markers = [];
+      var map = new google.maps.Map(document.getElementById('map-canvas'), {
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      });
+    
+      var defaultBounds = new google.maps.LatLngBounds(
+          new google.maps.LatLng(40.749956, -73.990991),
+          new google.maps.LatLng(40.746168, -73.978508));
+      map.fitBounds(defaultBounds);
+    
+      var infoWindow = new google.maps.InfoWindow();
+      var panoramioLayer = new google.maps.panoramio.PanoramioLayer({
+        suppressInfoWindows: true
+      });
+    
+      // Set default tag to avoid crowding the map with all photos
+      panoramioLayer.setTag('building');
+      panoramioLayer.setMap(map);
+    
+      var tag = document.getElementById('tag');
+    
+      google.maps.event.addDomListener(tag, 'input', function() {
+        if (tag.value.length >= 3 || tag.value.length == 0) {
+          panoramioLayer.setTag(tag.value);
+        }
+      });
+    
+      map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(
+          document.getElementById('tag'));
+    
+      google.maps.event.addListener(panoramioLayer, 'click', function(e) {
+        var photoRequestOptions = {
+          ids: [{
+            'photoId': e.featureDetails.photoId,
+            'userId': e.featureDetails.userId
+          }]
+        };
+        photoWidget.setRequest(photoRequestOptions);
+        photoWidget.setPosition(0);
+        infoWindow.setPosition(e.latLng);
+        infoWindow.open(map);
+        infoWindow.setContent(photoDiv);
+      });
+    
+    // Create the search box and link it to the UI element.
+      var input = /** @type {HTMLInputElement} */(
+          document.getElementById('pac-input'));
+      map.controls[google.maps.ControlPosition.TOP_CENTER].push(input);
+    
+      var searchBox = new google.maps.places.SearchBox(
+        /** @type {HTMLInputElement} */(input));
+    
+      // Listen for the event fired when the user selects an item from the
+      // pick list. Retrieve the matching places for that item.
+      google.maps.event.addListener(searchBox, 'places_changed', function() {
+        var places = searchBox.getPlaces();
+    
+        if (places.length == 0) {
+          return;
+        }
+        for (var i = 0, marker; marker = markers[i]; i++) {
+          marker.setMap(null);
+        }
+    
+        // For each place, get the icon, place name, and location.
+        markers = [];
+        var bounds = new google.maps.LatLngBounds();
+        for (var i = 0, place; place = places[i]; i++) {
+          var image = {
+            url: place.icon,
+            size: new google.maps.Size(71, 71),
+            origin: new google.maps.Point(0, 0),
+            anchor: new google.maps.Point(17, 34),
+            scaledSize: new google.maps.Size(25, 25)
+          };
+    
+          // Create a marker for each place.
+          var marker = new google.maps.Marker({
+            map: map,
+            icon: image,
+            title: place.name,
+            position: place.geometry.location
+          });
+    
+          markers.push(marker);
+    
+          bounds.extend(place.geometry.location);
+        }
+    
+        map.fitBounds(bounds);
+      });
+    
+      // Bias the SearchBox results towards places that are within the bounds of the
+      // current map's viewport.
+      google.maps.event.addListener(map, 'bounds_changed', function() {
+        var bounds = map.getBounds();
+        searchBox.setBounds(bounds);
+      });
+      
+    }
+    
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+    
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57703915-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
