@@ -5,4 +5,4 @@ User-agent: *
 Disallow:
 
 # Announce sitemap - https://support.google.com/webmasters/answer/183668
-Sitemap: http://opentheme.co/sitemap.xml
+Sitemap: http://mvaneijgen.nl/upcoming-vita-games//sitemap.xml
