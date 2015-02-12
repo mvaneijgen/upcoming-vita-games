@@ -6,16 +6,70 @@
 #  about: 
 #  gerne: 
 #  image: 
-#  gamewebsite: 
+#  gamewebsite:   
 #  devwebsite: 
-#  dateadd:
-#  releasedate:
+#  dateadd: 
+#  releasedate: 
+
+- name: Hyperdevotion Noire Goddess Black Heart
+  about: The game features chibi versions of the original Hyperdimension Neptunia characters which battle against enemies on a tactical grid map.
+  gerne: RPG
+  image: http://i.imgur.com/7MQqZMV.jpeg 
+  gamewebsite: http://ideafintl.com/noire/
+  devwebsite: http://ideafintl.com/
+  dateadd: 2015-02-12
+  releasedate: 2015-02-27
+
+- name: htoL#Niq The Firefly Diary
+  about: htoL#NiQ, is a 2014 video game created by Japanese game developer Nippon Ichi Software exclusively for the PlayStation Vita. 
+  gerne: Adventure
+  image: http://i.imgur.com/ycMY684.jpeg
+  gamewebsite: http://nisamerica.com/games/htoL-the-firefly-diary/
+  devwebsite: http://nisamerica.com/
+  dateadd: 2015-02-12
+  releasedate: 2015-02-25
+
+- name: LEGO Ninjago Shadow of Ronin
+  about: Players will be able to control Kai, Zane, Cole, Jay, Lloyd, and more in their quest to defeat Ronin. 
+  gerne: Adventure
+  image: http://i.imgur.com/NKo7xLV.jpeg
+  gamewebsite: http://www.ttgames.com/games/
+  devwebsite: http://www.ttgames.com
+  dateadd: 2015-02-12
+  releasedate: 2015-03-27
+
+- name: Tokyo Twilight Ghost Hunters
+  about: Gate Keepers is a publishing company that specializes in the occult. Our story's heroes are all employed by the company. 
+  gerne: Adventure
+  image: http://i.imgur.com/DoXbj1Q.jpeg
+  gamewebsite: http://www.nisamerica.com/games/tokyotwilightghosthunters/
+  devwebsite: http://www.nisamerica.com/
+  dateadd: 2015-02-12
+  releasedate: 2015-03-13
+
+- name: Toukiden Kiwami
+  about: Three months after the battle to prevent another Awakening... The village of Utakata enjoys an uneasy peace. 
+  gerne: RPG
+  image: http://i.imgur.com/0ImFwkp.jpeg
+  gamewebsite: http://toukiden.eu/kiwami/
+  devwebsite: http://www.koeitecmoeurope.com/
+  dateadd: 2015-02-12
+  releasedate: 2015-03-27
+
+- name: MLB 15 THE SHOW
+  about: Baseball is better than ever in MLB 15 The Show.
+  gerne: Sports
+  image: http://i.imgur.com/q8IOf4b.jpeg
+  gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
+  devwebsite: http://www.worldwidestudios.net/sandiego
+  dateadd: 2015-02-12
+  releasedate: 2015-04-01
 
 - name: The Swindle
   about: The Swindle is a Steampunk cybercrime game. It’s a little bit Steampunk, a little bit cyberpunk – and every level is unique.
   gerne: Action
   image: http://i.imgur.com/P62feVg.png
-  gamewebsite: http://www.sizefivegames.com/games/theswindle/
+  gamewebsite: http://www.sizefivegames.com/games/theswindle/gi
   devwebsite: http://www.sizefivegames.com
   dateadd: 2015-02-12
   releasedate:
@@ -73,15 +127,6 @@
   devwebsite: http://greenlavastudios.com
   dateadd: 2015-02-12
   releasedate: 2015-12-00
-
-- name: Hyperdevotion Noire Goddess Black Heart
-  about: 
-  gerne: RPG
-  image: http://i.imgur.com/7MQqZMV.jpeg 
-  gamewebsite: http://ideafintl.com/noire/
-  devwebsite: http://ideafintl.com/
-  dateadd: 2015-02-12
-  releasedate:
 
 - name: Wild Season
   about: Congratulations! After weeks of being down on your luck in the big city, youve found your calling farming! 
@@ -163,15 +208,6 @@
   devwebsite: http://www.puppygames.net/
   dateadd: 2015-02-12
   releasedate:
-
-- name: MLB 15 THE SHOW
-  about: Baseball is better than ever in MLB 15 The Show.
-  gerne: Sports
-  image: http://i.imgur.com/q8IOf4b.jpeg
-  gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
-  devwebsite: http://www.worldwidestudios.net/sandiego
-  dateadd: 2015-02-12
-  releasedate: 2015-03-31
 
 - name: Octodad Dadliest Catch
   about: Octodad Dadliest Catch is the sequel to the splash hit, Octodad! This time, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact?
