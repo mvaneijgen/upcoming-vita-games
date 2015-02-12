@@ -11,6 +11,15 @@
 #  dateadd:
 #  releasedate:
 
+- name: The Swindle
+  about: The Swindle is a Steampunk cybercrime game. It’s a little bit Steampunk, a little bit cyberpunk – and every level is unique.
+  gerne: Action
+  image: http://i.imgur.com/P62feVg.png
+  gamewebsite: http://www.sizefivegames.com/games/theswindle/
+  devwebsite: http://www.sizefivegames.com
+  dateadd: 2015-02-12
+  releasedate:
+
 - name: OlliOlli 2 Welcome to Olliwood
   about: Our iconic ‘skater’ is going all green-screen and getting radical at Olliwood Studios, plucking the player from the street and dropping him squarely in the middle of the Big Screen’s most bodacious cinematic locations.
   gerne: 2D 
