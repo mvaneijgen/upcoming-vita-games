@@ -11,6 +11,15 @@
 #  dateadd: 
 #  releasedate: 
 
+- name: Dragon Fin Soup
+  about: A charming SNES style RPG with Roguelike elements.
+  gerne: RPG
+  image: http://i.imgur.com/lpq4Lla.jpg
+  gamewebsite: http://dragonfinsoup.com/
+  devwebsite: http://grimm-bros.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
 - name: Hyper Light Drifter
   about:  2D Action RPG in the vein of the best 8-bit and 16-bit classics, with modernized mechanics and designs on a much grander scale.
   gerne: Action RPG
