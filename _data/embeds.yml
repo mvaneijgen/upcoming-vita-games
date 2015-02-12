@@ -11,6 +11,177 @@
 #  dateadd:
 #  releasedate:
 
+- name: OlliOlli 2 Welcome to Olliwood
+  about: Our iconic ‘skater’ is going all green-screen and getting radical at Olliwood Studios, plucking the player from the street and dropping him squarely in the middle of the Big Screen’s most bodacious cinematic locations.
+  gerne: 2D 
+  image: http://i.imgur.com/kw48nuc.jpeg
+  gamewebsite: http://www.roll7.co.uk/#!olliolli2/ccko
+  devwebsite: http://www.roll7.co.uk
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Spectra 8bit Racing
+  about: From new studio GATEWAY INTERACTIVE and CHIPZEL (The artist behind the Super Hexagon music) comes Spectra, a fast paced retro style racing game destined to get your heart pumping and test your skill like no other!
+  gerne: Race
+  image: http://i.imgur.com/j6oWMhq.jpeg
+  gamewebsite: http://www.spectragame.com
+  devwebsite: http://gatewayinteractive.co.uk
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Outpost 13
+  about: Outpost 13 is a point and click adventure strategy game where you, a monster, must escape an icy planet. A tribute to science fiction.
+  gerne: Strategy
+  image: http://i.imgur.com/eYKfuc6.jpeg
+  gamewebsite: http://hallmax.wix.com/cantinagames
+  devwebsite: http://hallmax.wix.com/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Pier Solar & the Great Architect
+  about: A well-crafed love letter to the turn-best, role playing games of a bygone era - 1up.com
+  gerne: RPG
+  image: http://i.imgur.com/lHPwmCL.jpeg
+  gamewebsite: http://www.piersolar.com
+  devwebsite: http://www.magicalgamefactory.com/en/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Soldner X2 Final Prototype
+  about: Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. 
+  gerne: Action
+  image: http://i.imgur.com/iL4YACg.jpeg
+  gamewebsite: http://www.soldner-x.com/sx2/
+  devwebsite: http://www.eastasiasoft.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Fenix Rage
+  about: From Green Lava Studios, Fenix Rage is an inspired, frenetically-paced, challenging, and aggressively addicting 2D action platformer that will keep one’s palms sweaty, thumbs fatigued, and wits sharp. Gamers take on the role of Fenix, whose village is decimated by a huge explosion, leaving only two survivors – Fenix and Oktarus, a mysterious figure who manages to elude Fenix’s best efforts at capture.
+  gerne: Action
+  image: http://i.imgur.com/AgrTmBr.jpeg
+  gamewebsite: http://www.fenixrage.com
+  devwebsite: http://greenlavastudios.com
+  dateadd: 2015-02-12
+  releasedate: 2015-12-00
+
+- name: Hyperdevotion Noire Goddess Black Heart
+  about: 
+  gerne: RPG
+  image: http://i.imgur.com/7MQqZMV.jpeg 
+  gamewebsite: http://ideafintl.com/noire/
+  devwebsite: http://ideafintl.com/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Wild Season
+  about: Congratulations! After weeks of being down on your luck in the big city, youve found your calling farming! 
+  gerne: Puzzle
+  image: http://i.imgur.com/M3cG8Nd.jpeg
+  gamewebsite: http://quickfire-games.com/wild-season/
+  devwebsite: http://quickfire-games.com/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Roundabout
+  about: Part open world, part puzzle game, all twisted. In Roundabout, players drive passengers in a constantly revolving limhttp://i.imgur.com/uDCzBct.jpgousine to their destinations.
+  gerne: Puzzle
+  image: http://i.imgur.com/lNS0sQk.jpeg
+  gamewebsite: http://roundaboutgame.com
+  devwebsite: http://nogoblin.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: We Are Doomed!
+  about: WE ARE DOOMED is a twin-stick shooter where you zap polygon baddies with an absurdly overpowered laserbeam.
+  gerne: Action
+  image: http://i.imgur.com/nPWNzdt.jpeg
+  gamewebsite: http://www.vertexpop.com/wearedoomed/
+  devwebsite: http://www.vertexpop.com/
+  dateadd: 2015-02-12
+  releasedate:
+  
+- name: Sketchcross
+  about: Sketchcross is a logic puzzle game based on the nonogram ruleset!
+  gerne: Puzzle
+  image: http://i.imgur.com/qopZXFv.jpeg
+  gamewebsite: http://sketchcross.com
+  devwebsite: http://www.spikyfishgames.com/SpikyFishGames/
+  dateadd: 2015-02-12
+  releasedate: 2015-04-00
+
+- name: Hatoful Boyfriend
+  about: Congratulations! You’ve been accepted as the only human student at the prestigious St. PigeoNation’s Institute, a school for talented pigeons.
+  gerne: Sim
+  image: http://i.imgur.com/RLDmNFE.jpeg
+  gamewebsite: http://www.mediatonicgames.com/hatoful-boyfriend
+  devwebsite: http://www.mediatonicgames.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Poncho
+  about: A Platformer like nothing seen before in games, explore this open-world puzzler in multiple dimensions on a journey to find your maker.
+  gerne: Puzzle
+  image: http://i.imgur.com/okvPW5p.gif
+  gamewebsite: http://poncho-game.com
+  devwebsite: http://poncho-game.com/?page_id=7
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Project Root
+  about: Project Root is a classic Shoot'Em Up, faithful to its roots, made unique with modern elements with a free camera system giving a freedom to action not seen before.
+  gerne: Shoot'em up
+  image: http://i.imgur.com/Efxc3P0.jpeg
+  gamewebsite: http://www.opqam.com
+  devwebsite: http://opqam.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Space Hulk Ascension
+  about: Space Hulk Ascension Edition is a 3D, digital, turn based, strategy game, which builds upon the classic board game experience, and adds new RPG style mechanics, additional weapons, enemy types, an all-new chapter and loads of other new features. 
+  gerne: trategy
+  image: http://i.imgur.com/IwtB2iV.png
+  gamewebsite: http://www.spacehulk-ascension.com
+  devwebsite: http://www.spacehulk-ascension.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Ultratron
+  about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
+  gerne: Arcade
+  image: http://i.imgur.com/LC1yuhQ.jpeg
+  gamewebsite: http://www.puppygames.net/ultratron/
+  devwebsite: http://www.puppygames.net/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: MLB 15 THE SHOW
+  about: Baseball is better than ever in MLB 15 The Show.
+  gerne: Sports
+  image: http://i.imgur.com/q8IOf4b.jpeg
+  gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
+  devwebsite: http://www.worldwidestudios.net/sandiego
+  dateadd: 2015-02-12
+  releasedate: 2015-03-31
+
+- name: Octodad Dadliest Catch
+  about: Octodad Dadliest Catch is the sequel to the splash hit, Octodad! This time, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact?
+  gerne: Puzzle 
+  image: http://i.imgur.com/9R58H0G.jpeg
+  gamewebsite: http://octodadgame.com/#about
+  devwebsite: http://octodadgame.com/
+  dateadd: 2015-02-12
+  releasedate:
+  
+- name: Geometry Wars 3 Dimensions
+  about: Geometry Wars 3 Dimensions is an exciting new evolution of the iconic, fast-paced and frenetic Geometry Wars™ gameplay fans love, and will introduce full 3D action and competitive online multiplayer for the first time in the franchise.
+  gerne: Action
+  image: http://i.imgur.com/1QzjP8B.jpeg
+  gamewebsite: http://www.sierra.com/geometrywars
+  devwebsite: http://www.sierra.com/
+  dateadd: 2015-02-12
+  releasedate:
+
 - name: Bastion
   about: Bastion is the first title from Supergiant Games, an original action role-playing game set in a lush imaginative world, in which players must create and fight for civilization’s last refuge as a mysterious narrator marks their every move.
   gerne: Action
