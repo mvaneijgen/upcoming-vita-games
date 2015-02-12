@@ -10,8 +10,26 @@ h1.header-3d {
 
 h2.slim-header-light {
 	font-size: 20px;
+	line-height: 30px;
 }
 .dateadd {
 float: left;
 font-size: 10px;
+}
+
+.slim-header-light a {
+color: #fff;
+font-weight: 700;
+}
+.slim-header-light a:hover {
+  text-decoration: underline;
+}
+
+.ui.menu a.item.menu-details {
+	background: #f50;
+	color: #fff;
+	border-radius: 0 2px 2px 0;
+}
+.ui.menu .header.item, .ui.vertical.menu .header.item {
+background: #fff;
 }

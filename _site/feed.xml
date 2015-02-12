@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Powerful New Theme for GitHub Pages | OpenTheme.co</title>
-    <description>Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
-</description>
+    <title>Upcoming Vita Games</title>
+    <description>This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.</description>
     <link>http://mvaneijgen.nl/upcoming-vita-games//</link>
     <atom:link href="http://mvaneijgen.nl/upcoming-vita-games//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Feb 2015 08:34:33 +0100</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2015 08:34:33 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2015 09:27:58 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2015 09:27:58 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>

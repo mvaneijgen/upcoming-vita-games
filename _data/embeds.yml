@@ -1,27 +1,16 @@
- # Official name of embed
-  # - name: Embedded Tweets
-  # Description of embed
-  # about: An Embedded Tweet brings brings the best content created on Twitter into your article or website.
-  # Social, News, Doc, RSS, Video, Photo, Graphic, Map
-  # group: Social    
-  # Image used in card view
-  # image: /img/embed/twitter-bird.jpg
-  # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
-  # icon: twitter            
-  # Site, Layout, Post configurable. None, if per use case.
-  # scope: None     
-  # true/false = Is the embed UI responsive
-  # responsive: true
-  # Does the embed work well on Jekyll and Github Pages
-  # jekyll_friendly: true
-  # Rating based on popularity, features
-  # rating: 5                 
-  # Link to to create embed
-  # create: https://twitter.com/              
-  # Link to embed docs
-  # docs: https://dev.twitter.com/web/embedded-tweets               
-  # URL to usecase
-  # usecase: /theme/2014/11/29/starter-post-twitter-embed/
+# Down here is a empty template for adding a new game just delete the # on every row. 
+# It is best to add the supmission right below here, so de website will show latest supmisons first
+# Upload your image to imgur.com and copy the "Direct Link" (the one with the file extention) please never delete this upload! 
+# Make sure the about text is not longer then 20 words and has no .,'"#$%^&*!@ symbols ! 
+
+# - name: 
+#  about: 
+#  gerne: 
+#  image: 
+#  gamewebsite: 
+#  devwebsite: 
+#  dateadd:
+#  releasedate: 
 
 - name: 99bricks
   about: 99 Bricks Wizard Academy is a fun and fast paced endless physics builder.
@@ -96,15 +85,6 @@
   releasedate: 2015-04-00
 
 - name: World Rally Championship (WRC) 5
-  about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
-  gerne: Race
-  image: http://i.imgur.com/tXtrHsl.png
-  gamewebsite: http://www.badlandgame.com
-  devwebsite: http://www.wrc.com/en/
-  dateadd: 2015-02-11
-  releasedate: 
-
-- name: banaan
   about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
   gerne: Race
   image: http://i.imgur.com/tXtrHsl.png
