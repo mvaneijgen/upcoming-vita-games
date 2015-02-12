@@ -98,7 +98,7 @@
     </a>
     <a class="item" href="/embeds/">
     <i class="wizard icon"></i>
-    Plugin Embeds <span class="ui purple mini label">9</span>
+    Plugin Embeds <span class="ui purple mini label">10</span>
     </a>
     <a class="item" href="/panoramio/">
     <i class="pin icon"></i>
@@ -502,6 +502,44 @@
     </div>
   </div> <!-- .column -->
 
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="dimmable image">
+        <div class="ui inverted dimmer">
+          <div class="content">
+            <div class="center">
+              <a class="ui primary button" href="http://www.badlandgame.com">Launch website</a>
+            </div>
+          </div>
+        </div>
+        <img src="http://i.imgur.com/tXtrHsl.png" alt="banaan">
+      </div>
+      <div class="content">
+        <div class="header">banaan</div>
+        <div class="meta">
+          <div class="group">
+            Race
+
+          </div>
+          <div class="releasedate">Release date:</div>
+        </div>
+        <div class="description">
+          The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
+        </div>
+      </div>
+  
+      <div class="extra content">
+      <div class="dateadd">date add:2015-02-11</div>
+          <div class="right floated created">
+          <a href="http://www.badlandgame.com"><i class="game icon embed-features" data-content="Game webiste" data-position="top right"></i></a> | 
+          <a href="http://www.wrc.com/en/"><i class="world icon embed-features" data-content="Developer webiste" data-position="top right"></i></a>
+        </div>
+      </div>
+  
+  
+    </div>
+  </div> <!-- .column -->
+
 </div>  
       </div>
     </div> <!-- /row -->
@@ -543,16 +581,15 @@
           <div class="ui inverted link list">
             <a class="item" href="https://twitter.com/mvaneijgen"><i class="twitter icon"></i> Twitter</a>
             <a class="item" href="https://github.com/mvaneijgen"><i class="github icon"></i> GitHub</a>
-            <a class="item" href="http://mvaneijgen.nl/upcoming-vita-games//feed.xml"><i class="rss icon"></i> Feed</a>
           </div>
         </div>
         <div class="column">
           <h5 class="ui inverted header">Contact Us</h5>
           <addr>
-            123 Your Address Here <br>
-            State, City <br>
+            Mitchel van Eijgen <br>
+            <a href="mailto:mvaneijgen@gmail.com">mvaneijgen@gmail.com</a> <br>
           </addr>
-          <p>(000) 123-4567</p>
+          <p><a href="callto:+3163832735">+31 6 38 63 27 38</a></p>
         </div>
       </div>
     </div>
@@ -619,51 +656,6 @@ $(document)
       .popup();
 
 });  
-</script>
-
-
-<script>
-// Include the UserVoice JavaScript SDK (only needed once on a page)
-UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/nvdgD40UtxnMoshpVHYxg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
-
-//
-// UserVoice Javascript SDK developer documentation:
-// https://www.uservoice.com/o/javascript-sdk
-//
-
-// Set colors
-UserVoice.push(['set', {
-  accent_color: '#448dd6',
-  trigger_color: 'white',
-  trigger_background_color: 'rgba(46, 49, 51, 0.6)'
-}]);
-
-// Identify the user and pass traits
-// To enable, replace sample data with actual user traits and uncomment the line
-UserVoice.push(['identify', {
-  //email:      'john.doe@example.com', // User’s email address
-  //name:       'John Doe', // User’s real name
-  //created_at: 1364406966, // Unix timestamp for the date the user signed up
-  //id:         123, // Optional: Unique id of the user (if set, this should not change)
-  //type:       'Owner', // Optional: segment your users by type
-  //account: {
-  //  id:           123, // Optional: associate multiple users with a single account
-  //  name:         'Acme, Co.', // Account name
-  //  created_at:   1364406966, // Unix timestamp for the date the account was created
-  //  monthly_rate: 9.99, // Decimal; monthly rate of the account
-  //  ltv:          1495.00, // Decimal; lifetime value of the account
-  //  plan:         'Enhanced' // Plan name for the account
-  //}
-}]);
-
-// Add default trigger to the bottom-right corner of the window:
-UserVoice.push(['addTrigger', { mode: 'smartvote', trigger_position: 'bottom-right' }]);
-
-// Or, use your own custom trigger:
-//UserVoice.push(['addTrigger', '#id', { mode: 'smartvote' }]);
-
-// Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
-UserVoice.push(['autoprompt', {}]);
 </script>
 
     

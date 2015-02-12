@@ -1,13 +1,12 @@
 # Site settings
 
-title: Powerful New Theme for GitHub Pages | OpenTheme.co
-tagline: Amazing Websites and Hybrid Apps. Speedily!
-email: sehgal.manav@gmail.com
-copyright: Manav Sehgal
-keywords: open theme, github pages, semantic ui, single page apps
+title: Upcoming Vita Games
+tagline: By mvaniejgen.nl
+email: mvaneijgen@gmail.com
+copyright: M van Eijgen
+keywords: 
 
-description: > # this means to ignore newlines until "url:". One indent required.
-  Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
+description: This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.
 
 # the base hostname & protocol for your site
 url: "http://mvaneijgen.nl/upcoming-vita-games/"
@@ -16,7 +15,7 @@ baseurl: "http://mvaneijgen.nl/upcoming-vita-games"
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
 
-default_image: /img/opentheme-workflow.png
+default_image: 
 
 # Pre-processing
 
@@ -76,4 +75,4 @@ addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com
 
 pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
 
-uservoice: "nvdgD40UtxnMoshpVHYxg"
+uservoice: ""
