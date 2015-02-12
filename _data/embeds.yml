@@ -9,7 +9,16 @@
 #  gamewebsite:   
 #  devwebsite: 
 #  dateadd: 
-#  releasedate: 
+#  releasedate:
+
+- name: Shantae Half-Genie Hero
+  about: Shantae: Half-Genie Hero continues the tradition of action/adventure in the spirit of Metroid, Castlevania, and the Legend of Zelda.
+  gerne: Action Adventure
+  image: http://i.imgur.com/eSdX5Hk.jpg
+  gamewebsite: http://wayforward.com/games/shantae-half-genie-hero/  
+  devwebsite: http://wayforward.com/
+  dateadd: 2015-02-12
+  releasedate: 
 
 - name: Dragon Fin Soup
   about: A charming SNES style RPG with Roguelike elements.
