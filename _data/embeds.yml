@@ -1,8 +1,7 @@
 # Down here is a empty template for adding a new game just delete the # on every row. 
-# It is best to add the supmission right below here, so de website will show latest supmisons first
+# It is best to add the supmission right below here so de website will show latest supmisons first
 # Upload your image to imgur.com and copy the "Direct Link" (the one with the file extention) please never delete this upload! 
-# Make sure the about text is not longer then 20 words and has no .,'"#$%^&*!@ symbols ! 
-
+# Make sure the text is not longer then 20 words and has no : ! 
 # - name: 
 #  about: 
 #  gerne: 
@@ -10,7 +9,205 @@
 #  gamewebsite: 
 #  devwebsite: 
 #  dateadd:
-#  releasedate: 
+#  releasedate:
+
+- name: Bastion
+  about: Bastion is the first title from Supergiant Games, an original action role-playing game set in a lush imaginative world, in which players must create and fight for civilization’s last refuge as a mysterious narrator marks their every move.
+  gerne: Action
+  image: http://i.imgur.com/HtQi8gL.jpeg
+  gamewebsite: https://www.supergiantgames.com/games/bastion/
+  devwebsite: https://www.supergiantgames.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Severed
+  about: Take control of a one-armed heroine wielding a living sword as she knits together pieces of her story from both the past and the future.
+  gerne: Adventure
+  image: http://i.imgur.com/O23LRxI.jpeg
+  gamewebsite: http://severedgame.com
+  devwebsite: http://drinkboxstudios.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Darkest Dungeon
+  about: Darkest Dungeon is a challenging gothic RPG about the stresses of dungeon crawling
+  gerne: RPG
+  image: http://i.imgur.com/060qOr0.jpeg
+  gamewebsite: http://www.darkestdungeon.com
+  devwebsite: http://www.darkestdungeon.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Super Time Force Ultra
+  about: SUPER TIME FORCE IS AN INSANE ACTION GAME FILLED WITH ROBOTS AND DINOSAURS AND FUN AND TIME TRAVEL!
+  gerne: Action
+  image: http://i.imgur.com/O2NgLFf.jpeg
+  gamewebsite: http://supertimeforce.com
+  devwebsite: http://www.capybaragames.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Shovel Knight
+  about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games. 
+  gerne: Adventure
+  image: http://i.imgur.com/I0oJikt.jpeg
+  gamewebsite: http://yachtclubgames.com/shovel-knight/
+  devwebsite: http://yachtclubgames.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Day of the Tentacle Special Edition
+  about: 
+  gerne: Adventure
+  image: http://i.imgur.com/rlKDME4.png
+  gamewebsite: http://www.doublefine.com/games
+  devwebsite: http://www.doublefine.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: The Banner Saga
+  about: The Banner Saga is an epic role-playing game inspired by Viking legend. 
+  gerne: RPG
+  image: http://i.imgur.com/un2UCt5.jpeg
+  gamewebsite: http://stoicstudio.com
+  devwebsite: http://stoicstudio.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Project Scissors
+  about: A brand new horror game from Hifumi Kono the creator of the Clock Tower game series and Takashi Shimizu the director of The Grudge.
+  gerne: Horror
+  image: http://i.imgur.com/2mFTEEc.jpeg
+  gamewebsite: http://www.night-cry.com
+  devwebsite: http://www.playism-games.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Resident Evil Revelations 2
+  about: Resident Evil Revelations 2 will be set between the events of Resident Evil 5 and Resident Evil 6.
+  gerne: Survival horror
+  image: http://i.imgur.com/H0kzOt6.jpeg
+  gamewebsite: http://www.residentevil.net/en/
+  devwebsite: http://www.capcom.com
+  dateadd: 2015-02-12
+  releasedate: 2015-04-00
+
+- name: Steins;Gate
+  about: Set in Akihabara the Mecca of Japanese anime culture Steins;Gate follows a group of friends who accidentally invent a method of sending messages to the past.
+  gerne: Mystery
+  image: http://i.imgur.com/jWIpqcm.jpeg
+  gamewebsite: http://steins-gate.us
+  devwebsite: http://www.jastusa.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Project Light
+  about: Project Light (codename) is a modern 3D turn-based Japanese-style RPG set in an underground cyberpunk world ruled by a fierce empire.
+  gerne: Adventure
+  image: http://i.imgur.com/gK6LcX2.png
+  gamewebsite: http://neko.works/index.php?static=projectlight
+  devwebsite: http://neko.works/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Robonauts
+  about: Robonauts will let the players explore uncharted planets face mysterious enemies and use loads of fun weapons and technology.
+  gerne: Action
+  image: http://i.imgur.com/ff56HNN.jpeg
+  gamewebsite: http://www.qubicgames.com/en/robonauts
+  devwebsite: http://www.qubicgames.com/en/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: 2 Fast 4 Gnomz
+  about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
+  gerne: Platformer
+  image: http://i.imgur.com/v0y9yzM.png
+  gamewebsite: http://www.qubicgames.com/en/2-fast-4-gnomz
+  devwebsite: http://www.qubicgames.com/en/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Air Race Speed
+  about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
+  gerne: Race
+  image: http://i.imgur.com/PQKWJmt.jpeg
+  gamewebsite: http://www.airacespeed.com
+  devwebsite: http://www.qubicgames.com/en/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Broken Age
+  about: Broken Age is a point-and-click adventure telling the stories of a young boy and girl leading parallel lives.
+  gerne: Adventure
+  image: http://i.imgur.com/EPhkKwq.jpeg
+  gamewebsite: http://www.brokenagegame.com
+  devwebsite: http://www.doublefine.com
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Operation Abyss New Tokyo Legacy
+  about: Operation Abyss New Tokyo Legacy is an upcoming dungeon RPG from the makers of Demon Gaze and before that Students of the Round.
+  gerne: RPG
+  image: http://i.imgur.com/PRgvqKS.jpeg
+  gamewebsite: http://nisamerica.com/games/operation-abyss-new-tokyo-legacy/home.html
+  devwebsite: http://nisamerica.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: J-Stars Victory VS +
+  about: For the 45th anniversary of the “Shonen Jump” magazine and the 20tth anniversary of the “V Jump” magazine a never before seen fighting game has been developed.
+  gerne: Fighting
+  image: http://i.imgur.com/fxV7N7F.jpeg
+  gamewebsite: http://www.bandaigames.channel.or.jp/list/jump45/pc/
+  devwebsite: http://www.spike-chunsoft.co.jp/company_e/information.html
+  dateadd: 2015-02-12
+  releasedate: 2015-07-00
+
+- name: Hyperdimension Neptunia U
+  about: The hack-'n'-slash stylings of the game are accompanied by the ability to switch out characters on the fly during real time battles special skills an armor degradation system and more.
+  gerne: Action
+  image: http://i.imgur.com/1JXTDLT.jpeg
+  gamewebsite: http://ideafintl.com/neptunia-u/
+  devwebsite: http://ideafintl.com
+  dateadd: 2015-02-12
+  releasedate: 2015-04-00
+
+- name: One Piece Pirate Warriors 3
+  about: One Piece Pirate Warriors 3 action game began streaming four new character gameplay videos on Wednesday.
+  gerne: Action
+  image: http://i.imgur.com/4XwVPow.jpeg
+  gamewebsite: http://www.bandaigames.channel.or.jp/list/opm/pc/?
+  devwebsite: http://www.bandainamcogames.co.jp
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Ethereal
+  about: Ethereal's story follows the nameless protagonist through seven of his most traumatic memories.
+  gerne: Puzzle
+  image: http://i.imgur.com/lNPBn0h.png
+  gamewebsite: http://www.etherealgame.net/
+  devwebsite: http://forums.tigsource.com/index.php?topic=35342.0
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Betty Boop Bop 
+  about: Betty Boop Bop is a music game designed for multi-touch devices. Out now on iOS Android and coming soon to PS Vita. Click on the links to get the game now!
+  gerne: Rhythm
+  image: http://i.imgur.com/0kQB074.jpeg
+  gamewebsite: http://fowlmoon.com/bbb
+  devwebsite: http://fowlmoon.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: A.N.N.E
+  about: A.N.N.E is an exciting game blending platforming and a shootem up gameplay with a touch of RPG elements. 
+  gerne: Shootem up
+  image: http://i.imgur.com/EFw5KMB.jpeg
+  gamewebsite: http://annethegame.blogspot.nl 
+  devwebsite: http://www.gamesbymo.com
+  dateadd: 2015-02-12
+  releasedate: 
 
 - name: 99bricks
   about: 99 Bricks Wizard Academy is a fun and fast paced endless physics builder.
@@ -50,7 +247,7 @@
 
 - name: Scram Kitty DX 
   about: enhanced version of last years critical hit Scram Kitty and his Buddy on Rails
-  gerne: action
+  gerne: Action
   image: http://i.imgur.com/bTssTHI.png
   gamewebsite: http://www.dakkodakko.com/site/
   devwebsite: http://www.dakkodakko.com/site/
