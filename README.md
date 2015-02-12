@@ -8,13 +8,10 @@ This is a person project of my ([mvaneijgen](http://mvaneijgen.nl)) to 'up' my d
 
 ## Here are the steps to add or edit a game on the website
 
-#### Step 1.
-Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/embeds.yml) 
+##### Step 1.
+Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/embeds.yml) and Click the edit button (the pencil icon top right)
 
-#### Step 2.
-Click the edit button (the pencil icon)
-
-#### Step 3.
+###### Step 2.
 Copy this:
 
 ```yaml
@@ -27,13 +24,10 @@ Copy this:
   dateadd:
   releasedate:
 ```
-#### Step 4.
-Paste It in the document on top (on line 13)
+##### Step 3.
+Paste It in the document on top (on line 13) and fill out the information of the game
 
-#### Step 5.
-Fill out the information of the game
-
-#### Step 6.
+##### Step 4.
 Fill out the "Commit changes" form and hit the "Commit changes" button
 
 I'll will recieve your update and if everything seems fine I'll will accept the pull reqeust and your changes will be reflected on the website. 
