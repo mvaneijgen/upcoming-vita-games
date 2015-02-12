@@ -11,6 +11,15 @@
 #  dateadd: 
 #  releasedate: 
 
+ - name: Hyper Light Drifter
+  about:  2D Action RPG in the vein of the best 8-bit and 16-bit classics, with modernized mechanics and designs on a much grander scale.
+  gerne: Action RPG
+  image: http://imgur.com/vKbsb0Z
+  gamewebsite: http://www.heart-machine.com/
+  devwebsite: http://www.heart-machine.com/home1/
+  dateadd: 2015-02-12
+  releasedate: 2015
+
  - name: Hand of Fate
   about: Inspired by tarot and fantasy, all bets are off as you create your own journey by building a collection of cards used to deal out a boardgame-like dungeon teeming with enemies, treasure and adventure. 
   gerne: Deck building/Action RPG
