@@ -15,7 +15,7 @@ baseurl: "http://mvaneijgen.nl/upcoming-vita-games"
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
 
-default_image: http://i.imgur.com/HagSD8L.jpeg
+default_image: /image.jpeg
 
 # Pre-processing
 
