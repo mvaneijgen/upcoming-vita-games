@@ -472,8 +472,8 @@
 
 - name: Starbound
   about: In Starbound, you take on the role of a character who’s just fled from their home planet, only to crash-land on another. 
-  gerne: http://i.imgur.com/wtRieCM.gif
-  image: Adventure
+  gerne: Adventure
+  image: http://i.imgur.com/wtRieCM.gif
   gamewebsite: http://playstarbound.com
   devwebsite: http://chucklefish.org
   dateadd: 2015-02-13
