@@ -1,6 +1,6 @@
 # Upcoming vita games website 
 
-This website can be found [here](mvaneijgen.nl/upcoming-vita-games). The website is hosted a Github.com.
+This website can be found [here](http://mvaneijgen.nl/upcoming-vita-games). The website is hosted a Github.com.
 
 ![Upcoming vita games website](http://i.imgur.com/RoJpSZF.jpeg "Upcoming vita games website ")
 
