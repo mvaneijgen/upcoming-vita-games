@@ -4,18 +4,18 @@ title: Upcoming Vita Games
 tagline: By mvaniejgen.nl
 email: mvaneijgen@gmail.com
 copyright: M van Eijgen
-keywords: 
+keywords: Vita games upcoming playstation unity psn 
 
-description: This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.
+description: This website displays all the upcoming vita games with a screenshot of the game and links to both the game website and developer website. This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.
 
 # the base hostname & protocol for your site
-url: "http://mvaneijgen.nl/upcoming-vita-games/"
+url: "http://mvaneijgen.nl/upcoming-vita-games"
 baseurl: ""
 
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
 
-default_image: 
+default_image: http://i.imgur.com/HagSD8L.jpeg
 
 # Pre-processing
 
@@ -60,19 +60,19 @@ google_map_height: 450            # Default map height. Width adjusts to contain
 
 # API Keys. PLEASE DO NOT USE THESE KEYS. Get your own at links in comments.
 
-google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
-google_analytics_ua: "UA-57703915-1" # Google Analytics site specific id
-google_cse_id: "012558675018178618302:kw1_r8qgyqc" # Google Custom Search Engine unique id
+google_api_key: "" # https://code.google.com/apis/console/
+google_analytics_ua: "UA-59691551-1" # Google Analytics site specific id
+google_cse_id: "" # Google Custom Search Engine unique id
 
-mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
+mapbox: ""
 
-facebook_app: "390272554479803" # https://developers.facebook.com/
+facebook_app: "" # https://developers.facebook.com/
 
-mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+mailchimp_u: "" # Mailchimp u=unique identification
+mailchimp_id: "" # Mailchip id
 
-addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com/dashboard
+addthis_pubid: "" # Get your pubid at https://www.addthis.com/dashboard
 
-pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
+pingdom_rum: "" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
 
 uservoice: ""
