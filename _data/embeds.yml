@@ -407,7 +407,7 @@
   dateadd: 2015-02-12
   releasedate: 
 
-- name: Supermagical
+- name: Broforce
   about: Broforce is a co-operative patriotism simulation. You play as 80's and 90's action heroes waging war against terror in almost entirely destructible nostalgic settings. 
   gerne: Action
   image: http://i.imgur.com/wg41y95.png
@@ -443,6 +443,266 @@
   dateadd: 2015-02-12
   releasedate:
 
+- name: Krinkle Krusher
+  about: It's a celebration day in the kingdom! The party has already started and every villager has the chance to eat the marvellous cake made from the fruit of the ancient magical tree!
+  gerne: Action
+  image: http://i.imgur.com/T7ywKz0.jpeg
+  gamewebsite: http://www.krinklekrusher.com
+  devwebsite: http://www.ilusis.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Skullgirls Encore
+  about: Skullgirls is a fast-paced, 2D fighting game developed by Reverge Labs and lead by tournament champ Mike “Mike Z” Zaimont and artist Alex “o_8” Ahad.
+  gerne: Fighting
+  image: http://i.imgur.com/0EfXaTl.jpeg
+  gamewebsite: http://skullgirls.com
+  devwebsite: http://www.autumngames.com
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Soft Body
+  about: Soft Body is a soothing bullet hell set in a meditative, musical world. As the player paints the worlds geometry, levels will constantly shift and rearrange themselves in order to trick, trap, and challenge the player.
+  gerne: Puzzle
+  image: http://i.imgur.com/NXrEJrp.gif
+  gamewebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
+  devwebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Starbound
+  about: In Starbound, you take on the role of a character who’s just fled from their home planet, only to crash-land on another. 
+  gerne: http://i.imgur.com/wtRieCM.gif
+  image: Adventure
+  gamewebsite: http://playstarbound.com
+  devwebsite: http://chucklefish.org
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: SteamWorld Heist
+  about: SteamWorld Heist is a game about space adventures and survival. Recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world. 
+  gerne: Adventure
+  image: http://i.imgur.com/BsuUxn9.jpeg
+  gamewebsite: http://steamworldgames.com/heist/
+  devwebsite: http://steamworldgames.com/
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Super Exploding Zoo
+  about: Fuelled by hunger and convenience of the planet, the greedy aliens have landed at the Zoo System to feast on delicious eggs. 
+  gerne: Action
+  image: http://i.imgur.com/ha5BfNH.jpeg
+  gamewebsite: http://www.superexplodingzoo.com
+  devwebsite: http://www.honeyslug.com
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: To Leave
+  about: By using his treasured flying Door, young Harm struggles to leave behind his sophisticating life in the ravenous megalopolis of Pyre, who now in turn seeks to devour him.
+  gerne: Adventure
+  image: http://i.imgur.com/fH4dRRW.jpeg
+  gamewebsite: http://freakycreations.net
+  devwebsite: http://freakycreations.net
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Volume
+  about: Locksley does not kill. That would be far too easy. Instead, he commits his crimes through stealth. He sneaks, he distracts, he avoids.
+  gerne: Action
+  image: http://i.imgur.com/dQzxpOA.jpeg
+  gamewebsite: http://www.mikebithellgames.com/volume/
+  devwebsite: http://www.mikebithellgames.com/
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Badland
+  about: BADLAND is a multi-award-winning side-scrolling action adventure game with innovative physics-based gameplay
+  gerne: Adventure
+  image: http://i.imgur.com/UAfUlPY.jpeg
+  gamewebsite: http://www.badlandgame.com
+  devwebsite: http://www.badlandgame.com/badland-game/
+  dateadd: 2015-02-11
+  releasedate: 2015-04-00
+
+- name: Bigfest
+  about: Revealed at Gamescom 2013 for PS Vita, BigFest is about building your own festival that will promote real, unsigned bands.
+  gerne: Sim
+  image: http://i.imgur.com/id138IR.jpeg
+  gamewebsite: http://uk.playstation.com/bigfest/
+  devwebsite: http://playstation.com/
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Chroma Squad
+  about: Tactical turn-based manager game, with sentai heroes and old-school pixel art! Everything you want in a fresh indie game!
+  gerne: Strategy
+  image: http://i.imgur.com/kZSx9sU.jpeg
+  gamewebsite: http://www.chromasquad.com
+  devwebsite: http://beholdstudios.com.br
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: Helldivers
+  about: “The upcoming game HELLDIVERS is a topdown shooter set in a satirical dystopian future where mankind is ruled by a managed democracy. 
+  gerne: Shooter
+  image: http://i.imgur.com/lWMMBfx.jpeg
+  gamewebsite: http://arrowheadgamestudios.com/games/
+  devwebsite: http://arrowheadgamestudios.com
+  dateadd: 2015-03-13
+  releasedate:
+
+- name: Hotline Miami 2 Wrong Number
+  about: Hotline Miami 2 Wrong Number is an upcoming 2D top-down action video game, developed by Dennaton Games and published by Devolver Digital.
+  gerne: Shooter
+  image: http://i.imgur.com/0DFVL8o.png
+  gamewebsite: http://www.dennaton.com
+  devwebsite: http://www.devolverdigital.com/games/view/hotline-miami-2-wrong-number
+  dateadd: 2015-02-13
+  releasedate:
+
+- name: J-Stars Victory VS+
+  about: For the 45th anniversary of the “Shonen Jump” magazine and the 20tth anniversary of the “V Jump” magazine a never before seen fighting game has been developed.
+  gerne: Fighting
+  image: http://i.imgur.com/fxV7N7F.jpeg
+  gamewebsite: http://www.bandaigames.channel.or.jp/list/jump45/pc/
+  devwebsite: http://www.spike-chunsoft.co.jp/company_e/information.html
+  dateadd: 2015-02-13
+  releasedate: 2015-07-00
+
+- name: LEGO Avengers
+  about: Avengers Assemble! Experience the first console video game featuring characters and storylines from the blockbuster film Marvel
+  gerne: Adventure
+  image: http://i.imgur.com/xN3AvhA.png
+  gamewebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
+  devwebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
+  dateadd: 2015-02-11
+  releasedate: 
+
+- name: LEGO Jurassic World
+  about: An adventure 65 million years in the making - now in classic LEGO brick fun!
+  gerne: Adventure
+  image: http://i.imgur.com/aSngVWi.png
+  gamewebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
+  devwebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
+  dateadd: 2015-02-11
+  releasedate: 
+
+- name: Metal Slug 3
+  about: Is a run and gun video game developed by SNK.
+  gerne: Shooter
+  image: http://i.imgur.com/5WS44mE.jpeg
+  gamewebsite: http://game.snkplaymore.co.jp/game/steam/metalslug3/
+  devwebsite: http://www.snkplaymore.co.jp/us/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: MilitAnt
+  about: MilitAnt™ is an action-packed side-scrolling platform/shooter by independent game developer Xibalba Studios.
+  gerne: Shooter
+  image: http://i.imgur.com/9MX4DTK.jpeg
+  gamewebsite: http://www.militantgame.com
+  devwebsite: http://www.xibalbastudios.com/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Murasaki Mist
+  about: Murasaki Mist is an Action/RPG based on a dynamic battle system that allows the player to define the strategy of the game itself.
+  gerne: RPG
+  image: http://i.imgur.com/uFnXIsB.jpeg
+  gamewebsite: http://hollowgames.com.mx/murasaki-mist/
+  devwebsite: http://hollowgames.com.mx/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Naruto Shippuden Ultimate Storm 4
+  about: The sixth installment of Ultimate Ninja Storm is an upcoming fighting game developed by CyberConnect2 
+  gerne: Fighting
+  image: http://i.imgur.com/bHFzKuo.jpeg
+  gamewebsite: http://www.naruto-videogames.com
+  devwebsite: http://www.cc2.co.jp
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Ninjin Clash of Carrots
+  about: Ninjin Clash of Carrots is a frenetic and stylish action game that combines fast paced modern gameplay with the best elements of old-school genres like shoot 'em ups, beat em ups and the exploratory freedom of Musou game series.
+  gerne: Shooter
+  image: http://i.imgur.com/NrLrDTb.jpeg
+  gamewebsite: http://www.pocket-trap.com/clash-of-carrots.html
+  devwebsite: http://www.pocket-trap.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Nuclear Throne
+  about: Nuclear Throne is Vlambeers latest action roguelike-like about mutants that spend their workdays trying to fight for the throne in a post-apocalyptic world.
+  gerne: Shooter
+  image: http://i.imgur.com/7V8Di0i.gif
+  gamewebsite: http://nuclearthrone.com
+  devwebsite: http://vlambeer.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: One Piece Pirate Warriors 3
+  about: One Piece Pirate Warriors 3 action game began streaming four new character gameplay videos on Wednesday.
+  gerne: Action
+  image: http://i.imgur.com/4XwVPow.jpeg
+  gamewebsite: http://www.bandaigames.channel.or.jp/list/opm/pc/?
+  devwebsite: http://www.bandainamcogames.co.jp
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Shovel Knight
+  about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games. 
+  gerne: Adventure
+  image: http://i.imgur.com/I0oJikt.jpeg
+  gamewebsite: http://yachtclubgames.com/shovel-knight/
+  devwebsite: http://yachtclubgames.com/
+  dateadd: 2015-02-12
+  releasedate: 
+
+- name: Starwhal
+  about: Flop it out with 2-4 players in a retro, epic narwhal battle in space! The heart-piercing action is furious and unrelenting.
+  gerne: Multiplayer
+  image: http://i.imgur.com/VSNf5RV.gif
+  gamewebsite: http://www.starwhal.com
+  devwebsite: http://breakfall.ca
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Tower of Guns
+  about: Tower of Guns is a fast paced randomized FPS for the twitch gamer a short burst “Lunch Break FPS” not unlike Binding of Isaac mixed with Doom 2.  
+  gerne: FPS
+  image: http://i.imgur.com/U6es3Dl.jpeg
+  gamewebsite: http://www.towerofguns.com
+  devwebsite: http://www.grip-games.com
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Ultratron
+  about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
+  gerne: Arcade
+  image: http://i.imgur.com/LC1yuhQ.jpeg
+  gamewebsite: http://www.puppygames.net/ultratron/
+  devwebsite: http://www.puppygames.net/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Energy Hook
+  about: Of all I’ve done in my twenty-something year career, I’m still most proud of inventing the dynamic, physical swinging system in Spider-Man 2…
+  gerne: Adventure
+  image: http://i.imgur.com/Do4fkG4.png
+  gamewebsite: http://www.happionlabs.com/energy-hook/
+  devwebsite: http://www.happionlabs.com/
+  dateadd: 2015-02-12
+  releasedate:
+
+- name: Nova-111 A Cosmic Voyage
+  about: NOVA-111 is a sci-fi themed turn-based adventure game with a twist of real-time action! Fighting aliens in space for SCIENCE!
+  gerne: Adventure
+  image: http://i.imgur.com/cYkPliD.jpeg
+  gamewebsite: http://www.nova111.com
+  devwebsite: http://funktroniclabs.com
+  dateadd: 2015-03-12
+  releasedate:
 
 - name: Fenix Rage
   about: From Green Lava Studios, Fenix Rage is an inspired, frenetically-paced, challenging, and aggressively addicting 2D action platformer that will keep one’s palms sweaty, thumbs fatigued, and wits sharp. Gamers take on the role of Fenix, whose village is decimated by a huge explosion, leaving only two survivors – Fenix and Oktarus, a mysterious figure who manages to elude Fenix’s best efforts at capture.
@@ -517,15 +777,6 @@
   dateadd: 2015-02-12
   releasedate:
 
-- name: Ultratron
-  about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
-  gerne: Arcade
-  image: http://i.imgur.com/LC1yuhQ.jpeg
-  gamewebsite: http://www.puppygames.net/ultratron/
-  devwebsite: http://www.puppygames.net/
-  dateadd: 2015-02-12
-  releasedate:
-
 - name: Geometry Wars 3 Dimensions
   about: Geometry Wars 3 Dimensions is an exciting new evolution of the iconic, fast-paced and frenetic Geometry Wars™ gameplay fans love, and will introduce full 3D action and competitive online multiplayer for the first time in the franchise.
   gerne: Action
@@ -551,15 +802,6 @@
   image: http://i.imgur.com/O2NgLFf.jpeg
   gamewebsite: http://supertimeforce.com
   devwebsite: http://www.capybaragames.com
-  dateadd: 2015-02-12
-  releasedate: 
-
-- name: Shovel Knight
-  about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games. 
-  gerne: Adventure
-  image: http://i.imgur.com/I0oJikt.jpeg
-  gamewebsite: http://yachtclubgames.com/shovel-knight/
-  devwebsite: http://yachtclubgames.com/
   dateadd: 2015-02-12
   releasedate: 
 
@@ -626,15 +868,6 @@
   dateadd: 2015-02-12
   releasedate: 
 
-- name: J-Stars Victory VS +
-  about: For the 45th anniversary of the “Shonen Jump” magazine and the 20tth anniversary of the “V Jump” magazine a never before seen fighting game has been developed.
-  gerne: Fighting
-  image: http://i.imgur.com/fxV7N7F.jpeg
-  gamewebsite: http://www.bandaigames.channel.or.jp/list/jump45/pc/
-  devwebsite: http://www.spike-chunsoft.co.jp/company_e/information.html
-  dateadd: 2015-02-12
-  releasedate: 2015-07-00
-
 - name: Hyperdimension Neptunia U
   about: The hack-'n'-slash stylings of the game are accompanied by the ability to switch out characters on the fly during real time battles special skills an armor degradation system and more.
   gerne: Action
@@ -643,15 +876,6 @@
   devwebsite: http://ideafintl.com
   dateadd: 2015-02-12
   releasedate: 2015-04-00
-
-- name: One Piece Pirate Warriors 3
-  about: One Piece Pirate Warriors 3 action game began streaming four new character gameplay videos on Wednesday.
-  gerne: Action
-  image: http://i.imgur.com/4XwVPow.jpeg
-  gamewebsite: http://www.bandaigames.channel.or.jp/list/opm/pc/?
-  devwebsite: http://www.bandainamcogames.co.jp
-  dateadd: 2015-02-12
-  releasedate: 
 
 - name: Ethereal
   about: Ethereal's story follows the nameless protagonist through seven of his most traumatic memories.
@@ -716,33 +940,6 @@
   devwebsite: http://www.dakkodakko.com/site/
   dateadd: 2015-02-11
   releasedate: 
-
-- name: LEGO Avengers
-  about: Avengers Assemble! Experience the first console video game featuring characters and storylines from the blockbuster film Marvel
-  gerne: Adventure
-  image: http://i.imgur.com/xN3AvhA.png
-  gamewebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
-  devwebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
-  dateadd: 2015-02-11
-  releasedate: 
-
-- name: LEGO Jurassic World
-  about: An adventure 65 million years in the making - now in classic LEGO brick fun!
-  gerne: Adventure
-  image: http://i.imgur.com/aSngVWi.png
-  gamewebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
-  devwebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
-  dateadd: 2015-02-11
-  releasedate: 
-
-- name: Badland
-  about: BADLAND is a multi-award-winning side-scrolling action adventure game with innovative physics-based gameplay
-  gerne: Adventure
-  image: http://i.imgur.com/UAfUlPY.jpeg
-  gamewebsite: http://www.badlandgame.com
-  devwebsite: http://www.badlandgame.com/badland-game/
-  dateadd: 2015-02-11
-  releasedate: 2015-04-00
 
 - name: World Rally Championship (WRC) 5
   about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
