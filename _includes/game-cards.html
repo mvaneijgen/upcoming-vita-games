@@ -6,38 +6,38 @@
   {% assign count = site.recent_items %}
 {% endif %}
 
-{% for embed in site.data.games %}
+{% for games in site.data.games %}
   <div class="column">
     <div class="ui fluid card">
       <div class="dimmable image">
         <div class="ui inverted dimmer">
           <div class="content">
             <div class="center">
-              <a class="ui primary button" href="{{ embed.gamewebsite }}">Launch website</a>
+              <a class="ui primary button" href="{{ games.gamewebsite }}">Launch website</a>
             </div>
           </div>
         </div>
-        <img src="{{ embed.image }}" alt="{{ embed.name }}">
+        <img src="{{ games.image }}" alt="{{ games.name }}">
       </div>
       <div class="content">
-        <div class="header">{{ embed.name }}</div>
+        <div class="header">{{ games.name }}</div>
         <div class="meta">
           <div class="group">
-            {{ embed.gerne }}
+            {{ games.gerne }}
 
           </div>
-          <div class="releasedate">Release date:{{ embed.releasedate }}</div>
+          <div class="releasedate">Release date:{{ games.releasedate }}</div>
         </div>
         <div class="description">
-          {{ embed.about }}
+          {{ games.about }}
         </div>
       </div>
   
       <div class="extra content">
-      <div class="dateadd">date add:{{ embed.dateadd }}</div>
+      <div class="dateadd">date add:{{ games.dateadd }}</div>
           <div class="right floated created">
-          <a href="{{ embed.gamewebsite }}"><i class="game icon embed-features" data-content="Game webiste" data-position="top right"></i></a> | 
-          <a href="{{ embed.devwebsite }}"><i class="world icon embed-features" data-content="Developer webiste" data-position="top right"></i></a>
+          <a href="{{ games.gamewebsite }}"><i class="game icon games-features" data-content="Game webiste" data-position="top right"></i></a> | 
+          <a href="{{ games.devwebsite }}"><i class="world icon games-features" data-content="Developer webiste" data-position="top right"></i></a>
         </div>
       </div>
   
