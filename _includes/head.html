@@ -32,7 +32,7 @@
   <meta property="og:title" content="{{ title_tag }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{% if page.layout != 'post' %}{{ site.description | strip_newlines }}{% else %}{{ page.excerpt | strip_html | strip_newlines }}{% endif %}">
-  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.default_image | prepend: site.url }}{% endif %}">
+  <meta property="og:image" content="{{ page.image }}">
   <meta property="og:image:width" content="640">
   <meta property="og:image:height" content="300">
   
