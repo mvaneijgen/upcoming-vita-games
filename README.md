@@ -35,5 +35,5 @@ I'll will recieve your update and if everything seems fine I'll will accept the 
 ----
 
 ## Credits
-The site is build on [Jekyll](http://jekyllrb.com) and uses the [Open Theme](http://opentheme.co) template.
+The site is build on [Jekyll](http://jekyllrb.com) and uses the [Open Theme](https://github.com/open-start/opentheme) template.
 Most content I used came from http://www.neogaf.com/forum/showthread.php?t=858508 
