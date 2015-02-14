@@ -7,6 +7,7 @@
 {% endif %}
 
 {% for game in site.data.games %}
+{% if game.western == true %} 
   <div class="column">
     <div class="ui fluid card">
       <div class="dimmable image">
@@ -36,7 +37,7 @@
       <div class="extra content">
       <div class="dateadd">date add:{{ game.dateadd }}</div>
           <div class="right floated created">
-          <a href="{{ game.gamewebsite }}"><i class="game icon game-features" data-content="Game webiste" data-position="top right"></i></a> | 
+          <a href="{{ game.gamewebsite }}"><i class="data icon game-features" data-content="data webiste" data-position="top right"></i></a> | 
           <a href="{{ game.devwebsite }}"><i class="world icon game-features" data-content="Developer webiste" data-position="top right"></i></a>
         </div>
       </div>
@@ -44,5 +45,6 @@
   
     </div>
   </div> <!-- .column -->
+  {% endif %}
 {% endfor %}
 </div>  
