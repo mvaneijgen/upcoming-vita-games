@@ -5,7 +5,7 @@
 #- name: Don't use : symbol!
 #  about: Don't use : symbol!
 #  gerne: Only one gerne! 
-#  image: imgur.com/ABC123.jpg|.png|.gif please make sure images are not larger then 600px wide!
+#  image: imgur.com/ABC123.jpg|.gif(no .png) please make sure images are not larger then 600px wide!
 #  gamewebsite: http://domain.com
 #  devwebsite: http://domain.com
 #  dateadd: Y-M-D
@@ -55,7 +55,7 @@
 - name: Titan Souls
   about: Explore the ancient ruins of your forefathers and uncover more than twenty extraordinary and unique titans, each with their own savage attacks and hidden weakness.
   gerne: RPG
-  image: http://imgur.com/4Q2Krq1.png
+  image: http://i.imgur.com/xqTSHwi.jpeg
   gamewebsite: http://www.devolverdigital.com/games/view/titan-souls  
   devwebsite: http://acidnerve.com/
   dateadd: 2015-02-12
