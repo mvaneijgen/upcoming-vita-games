@@ -2,16 +2,16 @@
 
 This website can be found [here](http://mvaneijgen.nl/upcoming-vita-games). The website is hosted a Github.com.
 
-![Upcoming vita games website](http://i.imgur.com/RoJpSZF.jpeg "Upcoming vita games website ")
+![Upcoming vita games website](http://i.imgur.com/BLWDI5X.jpeg "Upcoming vita games website ")
 
 This is a person project of my ([mvaneijgen](http://mvaneijgen.nl)) to 'up' my development skills, but mostly to create a visual pleasing and easy to find new upcoming vita games. The main goal of the project was to create a easy way for anyone to update the website, so everyone can contribute, the only thing you need is a [Github account](https://github.com/join).
 
 ## Here are the steps to add or edit a game on the website
 
 ##### Step 1.
-Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/embeds.yml) and Click the edit button (the pencil icon top right)
+Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/games.yml) and Click the edit button (the pencil icon top right)
 
-###### Step 2.
+##### Step 2.
 Copy this:
 
 ```yaml

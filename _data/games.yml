@@ -12,6 +12,16 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
+- name: Risk of Rain
+  about: Risk of Rain is an action platformer/adventure game with randomized elements.While we don’t want to spoil the story, we can let a few things through! The game is set in the distant future, where space transportation is common.
+  gerne: Adventure
+  image: http://i.imgur.com/KI3mSvt.gif
+  gamewebsite: http://riskofraingame.com
+  devwebsite: http://www.chucklefish.org
+  dateadd: 2015-02-12
+  releasedate: 
+  western: true
+
 - name: Shantae Half-Genie Hero
   about: Shantae Half-Genie Hero continues the tradition of action/adventure in the spirit of Metroid, Castlevania, and the Legend of Zelda.
   gerne: Action Adventure
