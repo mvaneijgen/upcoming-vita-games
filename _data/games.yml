@@ -12,6 +12,16 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
+- name: Rainbow Skies
+  about: From the makers of Rainbow Moon comes Rainbow Skies, a new fantasy role-playing game.
+  gerne: RPG
+  image: http://i.imgur.com/qFwF1Tl.jpg
+  gamewebsite: http://www.rainbow-skies.com/
+  devwebsite: http://www.eastasiasoft.com/index.php/games/playstationrvita/rainbow-skies
+  dateadd: 2015-02-19
+  releasedate: 
+  western: true
+
 - name: Risk of Rain
   about: Risk of Rain is an action platformer/adventure game with randomized elements.While we don’t want to spoil the story, we can let a few things through! The game is set in the distant future, where space transportation is common.
   gerne: Adventure
