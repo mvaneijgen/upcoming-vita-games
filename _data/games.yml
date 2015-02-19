@@ -12,16 +12,6 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
-- name: Children of Morta
-  about: Children of Morta is a story-driven hack ‘n slash roguelike game which will involve you in the adventures of the Bergson family.
-  gerne: hack’n slash
-  image: http://i.imgur.com/YZ4Ckx8.gif
-  gamewebsite: http://www.childrenofmorta.com
-  devwebsite: http://www.deadmage.com
-  dateadd: 2015-02-16
-  releasedate: 
-  western: true
-
 - name: Risk of Rain
   about: Risk of Rain is an action platformer/adventure game with randomized elements.While we don’t want to spoil the story, we can let a few things through! The game is set in the distant future, where space transportation is common.
   gerne: Adventure
