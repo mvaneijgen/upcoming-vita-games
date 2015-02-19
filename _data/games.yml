@@ -952,16 +952,6 @@
   releasedate: 
   western: true
 
-- name: Tower of Guns
-  about: Tower of Guns is a fast paced randomized FPS for the twitch gamer a short burst “Lunch Break FPS” not unlike Binding of Isaac mixed with Doom 2.  
-  gerne: FPS
-  image: http://i.imgur.com/U6es3Dl.jpeg
-  gamewebsite: http://www.towerofguns.com
-  devwebsite: http://www.grip-games.com
-  dateadd: 2015-02-12
-  releasedate: 
-  western: true
-
 - name: Ultratron
   about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
   gerne: Arcade
