@@ -7,7 +7,7 @@
 {% endif %}
 
 {% for game in site.data.games %}
-  <div class="column">
+  <div class="column" id="{{ game.name | downcase | replace: ' ', '_' }}">
     <div class="ui fluid card">
       <div class="dimmable image">
         <div class="ui inverted dimmer">
