@@ -12,6 +12,16 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
+- name: Danganronpa Another Episode Ultra Despair Girls
+  about: After the horrors have ended at Hope’s Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa™ Another Episode Ultra Despair Girls, the pre-sequel to the highly popular mystery adventure game Danganronpa™ 2 Goodbye Despair, is coming to North America and Europe on the PlayStation®Vita this fall. 
+  gerne: Adventure
+  image: http://i.imgur.com/ghpTRVP.jpeg
+  gamewebsite: http://nisamerica.com/index.php?nav=g
+  devwebsite: http://nisamerica.com
+  dateadd: 2015-02-20
+  releasedate: 
+  western: true
+
 - name: Rainbow Skies
   about: From the makers of Rainbow Moon comes Rainbow Skies, a new fantasy role-playing game.
   gerne: RPG
