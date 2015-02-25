@@ -7,7 +7,7 @@
 {% endif %}
 
 {% for game in site.data.games %}
-{% if game.released == false %} 
+{% if game.released == true %} 
   <div class="column" id="{{ game.name | downcase | replace: ' ', '_' }}">
     <div class="ui fluid card">
       <div class="dimmable image">

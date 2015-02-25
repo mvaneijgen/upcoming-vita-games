@@ -15,14 +15,17 @@ Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-
 Copy this:
 
 ```yaml
-- name: 
-  about: 
-  gerne: 
-  image: 
+- name: Can't use ":"
+  about: Can't use ":"
+  gerne: Only one gerne
+  image: Upload to imgur.com and URL must contain .jpg or .gif
   gamewebsite: 
   devwebsite: 
-  dateadd:
-  releasedate:
+  dateadd: Y-D-M
+  releasedate: Y-D-M
+  western: true OR false
+  released: true OR false
+
 ```
 ##### Step 3.
 Paste It in the document on top (on line 13) and fill out the information of the game
