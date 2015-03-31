@@ -7,7 +7,7 @@
 {% endif %}
 
 {% for game in site.data.games %}
-{% if game.gerne == 'Card game' %} 
+{% if game.genre == 'Card game' %} 
   <div class="column">
     <div class="ui fluid card">
       <div class="dimmable image">
@@ -24,7 +24,7 @@
         <div class="header">{{ game.name }}</div>
         <div class="meta">
           <div class="group">
-            {{ game.gerne }}
+            {{ game.genre }}
 
           </div>
           <div class="releasedate">Release date:{{ game.releasedate }}</div>

@@ -4,7 +4,7 @@
 # Make sure the text is not longer then 20 words and has no : ! 
 #- name: Don't use : symbol!
 #  about: Don't use : symbol!
-#  gerne: Only one gerne! 
+#  genre: Only one genre! 
 #  image: imgur.com/ABC123.jpg|.gif(no .png) please make sure images are not larger then 600px wide!
 #  gamewebsite: http://domain.com
 #  devwebsite: http://domain.com
@@ -15,7 +15,7 @@
 
 - name: Danganronpa Another Episode Ultra Despair Girls
   about: After the horrors have ended at Hope’s Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa™ Another Episode Ultra Despair Girls, the pre-sequel to the highly popular mystery adventure game Danganronpa™ 2 Goodbye Despair, is coming to North America and Europe on the PlayStation®Vita this fall. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/ghpTRVP.jpeg
   gamewebsite: http://nisamerica.com/index.php?nav=g
   devwebsite: http://nisamerica.com
@@ -26,7 +26,7 @@
 
 - name: Run Sackboy! Run!
   about: Sackboy scampers back to the PS Vita this week with the release of our free-to-play, platform-survival game – Run Sackboy! Run!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/06k6jLb.jpg
   gamewebsite: http://www.playstationnetwork.com
   devwebsite: http://www.playstationnetwork.com
@@ -37,7 +37,7 @@
 
 - name: Rainbow Skies
   about: From the makers of Rainbow Moon comes Rainbow Skies, a new fantasy role-playing game.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/qFwF1Tl.jpg
   gamewebsite: http://www.rainbow-skies.com/
   devwebsite: http://www.eastasiasoft.com/index.php/games/playstationrvita/rainbow-skies
@@ -48,7 +48,7 @@
 
 - name: Risk of Rain
   about: Risk of Rain is an action platformer/adventure game with randomized elements.While we don’t want to spoil the story, we can let a few things through! The game is set in the distant future, where space transportation is common.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/KI3mSvt.gif
   gamewebsite: http://riskofraingame.com
   devwebsite: http://www.chucklefish.org
@@ -59,7 +59,7 @@
 
 - name: Shantae Half-Genie Hero
   about: Shantae Half-Genie Hero continues the tradition of action/adventure in the spirit of Metroid, Castlevania, and the Legend of Zelda.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/eSdX5Hk.jpg
   gamewebsite: http://wayforward.com/games/shantae-half-genie-hero/  
   devwebsite: http://wayforward.com/
@@ -70,7 +70,7 @@
 
 - name: Dragon Fin Soup
   about: A charming SNES style RPG with Roguelike elements.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/HgT7bbu.jpeg
   gamewebsite: http://dragonfinsoup.com/
   devwebsite: http://grimm-bros.com/
@@ -81,7 +81,7 @@
 
 - name: Hyper Light Drifter
   about:  2D Action RPG in the vein of the best 8-bit and 16-bit classics, with modernized mechanics and designs on a much grander scale.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/baN6DmU.jpeg
   gamewebsite: http://www.heart-machine.com/
   devwebsite: http://www.heart-machine.com/home1/
@@ -92,7 +92,7 @@
 
 - name: Hand of Fate
   about: Inspired by tarot and fantasy, all bets are off as you create your own journey by building a collection of cards used to deal out a boardgame-like dungeon teeming with enemies, treasure and adventure. 
-  gerne: Card game
+  genre: Card game
   image: http://i.imgur.com/gAxzu19.jpeg
   gamewebsite: http://www.defiantdev.com/hofpress/
   devwebsite: http://www.defiantdev.com/
@@ -103,7 +103,7 @@
 
 - name: Titan Souls
   about: Explore the ancient ruins of your forefathers and uncover more than twenty extraordinary and unique titans, each with their own savage attacks and hidden weakness.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/xqTSHwi.jpeg
   gamewebsite: http://www.devolverdigital.com/games/view/titan-souls  
   devwebsite: http://acidnerve.com/
@@ -114,7 +114,7 @@
 
 - name: Hyperdevotion Noire Goddess Black Heart
   about: The game features chibi versions of the original Hyperdimension Neptunia characters which battle against enemies on a tactical grid map.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/7MQqZMV.jpeg 
   gamewebsite: http://ideafintl.com/noire/
   devwebsite: http://ideafintl.com
@@ -125,7 +125,7 @@
 
 - name: htoL#Niq The Firefly Diary
   about: htoL#NiQ, is a 2014 video game created by Japanese game developer Nippon Ichi Software exclusively for the PlayStation Vita. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/ycMY684.jpeg
   gamewebsite: http://nisamerica.com/games/htoL-the-firefly-diary/
   devwebsite: http://nisamerica.com/
@@ -136,7 +136,7 @@
 
 - name: LEGO Ninjago Shadow of Ronin
   about: Players will be able to control Kai, Zane, Cole, Jay, Lloyd, and more in their quest to defeat Ronin. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/NKo7xLV.jpeg
   gamewebsite: http://www.ttgames.com/games/
   devwebsite: http://www.ttgames.com
@@ -147,7 +147,7 @@
 
 - name: Tokyo Twilight Ghost Hunters
   about: Gate Keepers is a publishing company that specializes in the occult. Our story's heroes are all employed by the company. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/DoXbj1Q.jpeg
   gamewebsite: http://www.nisamerica.com/games/tokyotwilightghosthunters/
   devwebsite: http://www.nisamerica.com/
@@ -158,7 +158,7 @@
 
 - name: Toukiden Kiwami
   about: Three months after the battle to prevent another Awakening... The village of Utakata enjoys an uneasy peace. 
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/0ImFwkp.jpeg
   gamewebsite: http://toukiden.eu/kiwami/
   devwebsite: http://www.koeitecmoeurope.com/
@@ -169,7 +169,7 @@
 
 - name: MLB 15 THE SHOW
   about: Baseball is better than ever in MLB 15 The Show.
-  gerne: Sport
+  genre: Sport
   image: http://i.imgur.com/q8IOf4b.jpeg
   gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
   devwebsite: http://www.worldwidestudios.net/sandiego
@@ -180,7 +180,7 @@
 
 - name: The Swindle
   about: The Swindle is a Steampunk cybercrime game. It’s a little bit Steampunk, a little bit cyberpunk – and every level is unique.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/P62feVg.png
   gamewebsite: http://www.sizefivegames.com/games/theswindle/gi
   devwebsite: http://www.sizefivegames.com
@@ -191,7 +191,7 @@
 
 - name: OlliOlli 2 Welcome to Olliwood
   about: Our iconic ‘skater’ is going all green-screen and getting radical at Olliwood Studios, plucking the player from the street and dropping him squarely in the middle of the Big Screen’s most bodacious cinematic locations.
-  gerne: Sport 
+  genre: Sport 
   image: http://i.imgur.com/kw48nuc.jpeg
   gamewebsite: http://www.roll7.co.uk/#!olliolli2/ccko
   devwebsite: http://www.roll7.co.uk
@@ -202,7 +202,7 @@
 
 - name: Ascension Chronicle of the Godslayer
   about: Ascension is a fast-paced deckbuilding game that’s quick to learn, easy to setup, and packed with endless hours of replay value!
-  gerne: Card game
+  genre: Card game
   image: http://i.imgur.com/WK7Fk8g.jpeg
   gamewebsite: http://ascensiongame.com
   devwebsite: http://stoneblade.com
@@ -213,7 +213,7 @@
 
 - name: Baboon!
   about: Pirate Baboon the most perfidious baboon on little monkey’s island has wreaked havoc with his anti-gravity raygun, hes gone and fired his lethal ray at every banana on the island. Now they are floating around! What can we do now?
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/esHixm4.png
   gamewebsite: http://www.relevovideogames.com/baboon_psvita/
   devwebsite: http://www.relevovideogames.com/
@@ -224,7 +224,7 @@
 
 - name: Bodycheck
   about: Bodycheck is a medieval sports game for PS Vita with no rules against foul play, magic powers, and up to four teams on the pitch at once.
-  gerne: Sport
+  genre: Sport
   image: http://i.imgur.com/helxTuW.jpeg
   gamewebsite: http://bodycheckgame.com
   devwebsite: http://ludometrics.com
@@ -235,7 +235,7 @@
 
 - name: Death Ray Manta
   about: Death Ray Manta (or DRM:The Videogame, no… not that sort of DRM!) is a videogame. 
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/zL2xb63.jpeg
   gamewebsite: http://www.psychicparrotgames.com/drm/
   devwebsite: http://www.psychicparrotgames.com/
@@ -246,7 +246,7 @@
 
 - name: Death Tales
   about: Free to play action RPG for the PlayStation Vita.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/LntZ89N.png
   gamewebsite: http://www.ninetalesdigital.com/deathtales/
   devwebsite: http://www.ninetalesdigital.com/
@@ -257,7 +257,7 @@
 
 - name: Heroes of Loot
   about: Heroes of Loot is the result of many years of attempting to create the perfect dungeon game in the Orangepixel style.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/OdpmVFC.png
   gamewebsite: http://www.orangepixel.net/heroesofloot/
   devwebsite: http://www.orangepixel.net/
@@ -268,7 +268,7 @@
 
 - name: HTR+ Slot Car Simulation
   about: HTR+ Slot Car Simulation is a virtual version of the classic toy of the 80´s and 90´s. HTR+ is the sequel of HTR High Tech Racing that was downloaded several million times across all platform
-  gerne: Racer
+  genre: Racer
   image: http://i.imgur.com/XUSTGmQ.jpeg
   gamewebsite: http://www.libredia.com/component/k2/item/148-htr%20-high-tech-racing
   devwebsite: http://www.qubyteinteractive.com/site/
@@ -279,7 +279,7 @@
 
 - name: Imagination is the Only Escape
   about: An educational story-driven game about the Holocaust through the eyes of a child. For PC, iOS, Android, Playstation Vita and Mac.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/tU2Fqq5.png
   gamewebsite: https://twitter.com/lucbernard
   devwebsite: https://twitter.com/lucbernard
@@ -290,7 +290,7 @@
 
 - name: Monster Bag
   about: Greg dove in to two different bite-sized Vita games last night, and now, hes ready to tll you all about Monsterbag a...
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/hXys4zk.jpeg
   gamewebsite: https://www.youtube.com/watch?v=0WYwgbxJLsE&feature=youtu.be
   devwebsite: http://iguanabee.com
@@ -301,7 +301,7 @@
 
 - name: Octodad Dadliest Catch
   about: Octodad Dadliest Catch is the sequel to the splash hit, Octodad! This time, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact?
-  gerne: Puzzle 
+  genre: Puzzle 
   image: http://i.imgur.com/9R58H0G.jpeg
   gamewebsite: http://octodadgame.com/#about
   devwebsite: http://octodadgame.com/
@@ -312,7 +312,7 @@
 
 - name: Operation Abyss New Tokyo Legacy
   about: Operation Abyss New Tokyo Legacy is an upcoming dungeon RPG from the makers of Demon Gaze and before that Students of the Round.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/PRgvqKS.jpeg
   gamewebsite: http://nisamerica.com/games/operation-abyss-new-tokyo-legacy/home.html
   devwebsite: http://nisamerica.com/
@@ -323,7 +323,7 @@
 
 - name: Oreshika
   about: Unlike the original 1999 PlayStation game, the sequel will have characters fully rendered in 3D.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/tI8ZY7V.jpeg
   gamewebsite: http://www.jp.playstation.com/scej/title/oreshika/2/
   devwebsite: http://playstation.com
@@ -334,7 +334,7 @@
 
 - name: Persona 4 Dancing All Night
   about: After streaming one of the tracks for the game in Pursuing My True Self from Persona 4, Atlus shared a look at the latest trailer for the game.
-  gerne: Rhythm
+  genre: Rhythm
   image: http://i.imgur.com/8F3KPVy.jpeg
   gamewebsite: http://www.atlus.com/p4dan/
   devwebsite: http://www.atlus.com/
@@ -345,7 +345,7 @@
 
 - name: Pier Solar & the Great Architect
   about: A well-crafed love letter to the turn-best, role playing games of a bygone era - 1up.com
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/lHPwmCL.jpeg
   gamewebsite: http://www.piersolar.com
   devwebsite: http://www.magicalgamefactory.com/en/
@@ -356,7 +356,7 @@
 
 - name: Resident Evil Revelations 2
   about: Resident Evil Revelations 2 will be set between the events of Resident Evil 5 and Resident Evil 6.
-  gerne: horror
+  genre: horror
   image: http://i.imgur.com/H0kzOt6.jpeg
   gamewebsite: http://www.residentevil.net/en/
   devwebsite: http://www.capcom.com
@@ -367,7 +367,7 @@
 
 - name: Severed
   about: Take control of a one-armed heroine wielding a living sword as she knits together pieces of her story from both the past and the future.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/O23LRxI.jpeg
   gamewebsite: http://severedgame.com
   devwebsite: http://drinkboxstudios.com
@@ -378,7 +378,7 @@
 
 - name: Sketchcross
   about: Sketchcross is a logic puzzle game based on the nonogram ruleset!
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/qopZXFv.jpeg
   gamewebsite: http://sketchcross.com
   devwebsite: http://www.spikyfishgames.com/SpikyFishGames/
@@ -389,7 +389,7 @@
 
 - name: Soldner X2 Final Prototype
   about: Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/iL4YACg.jpeg
   gamewebsite: http://www.soldner-x.com/sx2/
   devwebsite: http://www.eastasiasoft.com
@@ -400,7 +400,7 @@
 
 - name: Son of Scoregasm
   about: In Son of Scoregasm I’ve tried to create something slick, varied, challenging, and fun that plays really well on Vita.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/RrxdxZ1.jpeg
   gamewebsite: http://charliesgames.com/tempsite/games/scoregasm.html
   devwebsite: http://charliesgames.com/tempsite/index.html
@@ -411,7 +411,7 @@
 
 - name: Spongebob Heropants
   about: SpongeBob HeroPants is a 2015 action-adventure video game based on the television series, SpongeBob SquarePants.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/906iTpP.png
   gamewebsite: http://www.activision.com/au/en/games/spongebob/spongebob-hero-pants
   devwebsite: http://www.bhvr.com
@@ -422,7 +422,7 @@
 
 - name: Squares
   about: Simple yet challenging. It will never stop rewarding you. Squariness is the objective.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/yXPlUMv.jpeg
   gamewebsite: http://leapgs.com/squares-game.html
   devwebsite: http://leapgs.com/
@@ -433,7 +433,7 @@
 
 - name: Towerfall Ascension
   about: TowerFall is an archery combat platformer for up to 4 players
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/nbMQp3o.jpg
   gamewebsite: http://www.towerfall-game.com
   devwebsite: http://www.mattmakesgames.com
@@ -444,7 +444,7 @@
 
 - name: Dengeki Bunko Fighting Climax
   about: Dengeki Bunko Fighting Climax is a 2D arcade fighting game developed by
-  gerne: Fighting
+  genre: Fighting
   image: http://i.imgur.com/sCCF63e.jpeg
   gamewebsite: http://climax.sega.jp
   devwebsite: http://e56.info
@@ -455,7 +455,7 @@
 
 - name: Steins;Gate
   about: Set in Akihabara the Mecca of Japanese anime culture Steins;Gate follows a group of friends who accidentally invent a method of sending messages to the past.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/jWIpqcm.jpeg
   gamewebsite: http://www.steinsgategame.com/
   devwebsite: http://www.pqube.co.uk/
@@ -466,7 +466,7 @@
 
 - name: Supermagical
   about: Join the clever witch Nina in a huge magical adventure full of treasures, spells, puzzles and... Minix? Enjoy the game on your iPhone, iPad or iPod Touch!
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/aRqjFbp.jpeg
   gamewebsite: http://supermagical.supermegateam.com
   devwebsite: http://supermegateam.com
@@ -477,7 +477,7 @@
 
 - name: Alone With You
   about: Alone With You A Psychological Romance Adventure
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/Zl5wIVQ.png
   gamewebsite: http://www.alonewithyougame.com
   devwebsite: http://www.benjaminrivers.com
@@ -488,7 +488,7 @@
 
 - name: Assault Android Cactus
   about: Assault Android Cactus is a PC based indie manic twin stick shooter in the classic arcade tradition
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/VRr3lm1.jpeg
   gamewebsite: http://www.assaultandroidcactus.com/p/landing.html
   devwebsite: http://www.witchbeam.com.au
@@ -499,7 +499,7 @@
 
 - name: Axiom Verge
   about: Axiom Verge is a retro-styled 2D “metroidvania” action-adventure, inspired by such classics as Rygar, Contra, Bionic Commando, Blaster Master, and, of course, Metroid. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/30hgma1.gif
   gamewebsite: http://www.axiomverge.com
   devwebsite: http://www.axiomverge.com/author/
@@ -510,7 +510,7 @@
 
 - name: Aztez
   about: In Aztez, you expand and maintain the Aztec empire through turn-based strategy, while managing violent outbreaks via real-time beat 'em up sequences. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/w3I7H4q.gif
   gamewebsite: http://aztez.com
   devwebsite: http://teamcolorblind.com
@@ -521,7 +521,7 @@
 
 - name: Bastion
   about: Bastion is the first title from Supergiant Games, an original action role-playing game set in a lush imaginative world, in which players must create and fight for civilization’s last refuge as a mysterious narrator marks their every move.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/HtQi8gL.jpeg
   gamewebsite: https://www.supergiantgames.com/games/bastion/
   devwebsite: https://www.supergiantgames.com/
@@ -532,7 +532,7 @@
 
 - name: Supermagical
   about: Defend your burrow from a horde of evil bunnies!
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/r22FHJS.png
   gamewebsite: http://www.nnooo.com/software/blastembunnies/
   devwebsite: http://www.nnooo.com/
@@ -543,7 +543,7 @@
 
 - name: Broforce
   about: Broforce is a co-operative patriotism simulation. You play as 80's and 90's action heroes waging war against terror in almost entirely destructible nostalgic settings. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/wg41y95.png
   gamewebsite: http://www.freelives.net/broforce-game
   devwebsite: http://www.freelives.net/
@@ -554,7 +554,7 @@
 
 - name: Broken Age The Complete Adventure
   about: Broken Age is a point-and-click adventure telling the stories of a young boy and girl leading parallel lives.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/EPhkKwq.jpeg
   gamewebsite: http://www.brokenagegame.com
   devwebsite: http://www.doublefine.com
@@ -565,7 +565,7 @@
 
 - name: Spectra 8bit Racing
   about: From new studio GATEWAY INTERACTIVE and CHIPZEL (The artist behind the Super Hexagon music) comes Spectra, a fast paced retro style racing game destined to get your heart pumping and test your skill like no other!
-  gerne: Racer
+  genre: Racer
   image: http://i.imgur.com/j6oWMhq.jpeg
   gamewebsite: http://www.spectragame.com
   devwebsite: http://gatewayinteractive.co.uk
@@ -576,7 +576,7 @@
 
 - name: Outpost 13
   about: Outpost 13 is a point and click adventure strategy game where you, a monster, must escape an icy planet. A tribute to science fiction.
-  gerne: Strategy
+  genre: Strategy
   image: http://i.imgur.com/eYKfuc6.jpeg
   gamewebsite: http://hallmax.wix.com/cantinagames
   devwebsite: http://hallmax.wix.com/
@@ -587,7 +587,7 @@
 
 - name: Krinkle Krusher
   about: It's a celebration day in the kingdom! The party has already started and every villager has the chance to eat the marvellous cake made from the fruit of the ancient magical tree!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/T7ywKz0.jpeg
   gamewebsite: http://www.krinklekrusher.com
   devwebsite: http://www.ilusis.com
@@ -598,7 +598,7 @@
 
 - name: Skullgirls Encore
   about: Skullgirls is a fast-paced, 2D fighting game developed by Reverge Labs and lead by tournament champ Mike “Mike Z” Zaimont and artist Alex “o_8” Ahad.
-  gerne: Fighting
+  genre: Fighting
   image: http://i.imgur.com/0EfXaTl.jpeg
   gamewebsite: http://skullgirls.com
   devwebsite: http://www.autumngames.com
@@ -609,7 +609,7 @@
 
 - name: Shu
   about: Shu is a beautiful and engrossing platformer that we’re bringing to PC and consoles with our friends at Secret Lunch.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/bJucYpQ.jpeg
   gamewebsite: http://coatsink.com/games/shu
   devwebsite: http://coatsink.com/
@@ -620,7 +620,7 @@
 
 - name: Mighty No. 9
   about: Classic Japanese side-scrolling action, evolved and transformed by Keiji Inafune, an all-star team of veteran Mega Man devs...and YOU!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/MigB8C5.jpeg
   gamewebsite: http://www.mightyno9.com
   devwebsite: http://www.comcept.co.jp/en/
@@ -631,7 +631,7 @@
 
 - name: Color Guardians
   about: Help the Color Guardians bring color back to there world! Guide Rod, Lia and Grock through 70+ levels of fast paced action and defeat the evel color thief Krogma!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/Ldup1iu.jpeg
   gamewebsite: http://colorguardians.com
   devwebsite: 
@@ -642,7 +642,7 @@
 
 - name: Cosmic Star Heroine
   about: New turn-based RPG from the creators of Cthulhu Saves the World. Inspired by Chrono Trigger, Phantasy Star & Suikoden. PC/Mac/PS4/Vita.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/ymFwwDa.png
   gamewebsite: http://zeboyd.com
   devwebsite: http://zeboyd.com
@@ -653,7 +653,7 @@
 
 - name: Desert Ashes
   about: All images copyright Nine Tales Digital. All rights reserved. Nine Tales Digital was founded by Luc Bernard and Sean Reid.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/EM3kSfC.png
   gamewebsite: http://www.ninetalesdigital.com/desertashes/
   devwebsite: http://www.ninetalesdigital.com/
@@ -664,7 +664,7 @@
 
 - name: EarthNight
   about: DRAGONS HAVE TAKEN OVER THE EARTH It's up to a 14 year old high-schooler and an unemployed photographer to stop them. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/l6T6qbE.png
   gamewebsite: http://www.cleaversoft.com
   devwebsite: http://www.cleaversoft.com
@@ -675,7 +675,7 @@
 
 - name: Flame Over
   about: Blending top down "squirt em-up" action and "Pyroguelike" game mechanics, Flame Over features fast-paced fire-fighting thrills, randomly generated levels, 4 different game zones and dastardly hazards at every turn!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/Z3rOrqH.jpeg
   gamewebsite: http://www.laughingjackal.co.uk/games/flame-over
   devwebsite: http://www.laughingjackal.co.uk
@@ -686,7 +686,7 @@
 
 - name: forma.8
   about: In a distant future, the small exploration probe forma.8 is stranded alone on the surface of an alien planet. It will face great perils, discover ancient civilisations and dystopian visions. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/R9sRxLD.jpeg
   gamewebsite: http://www.forma8.net
   devwebsite: http://mixedbag.it
@@ -697,7 +697,7 @@
 
 - name: Foul Play
   about: ​Play as the daemon-hunter Baron Dashforth in a side-scrolling co-op brawler set entirely on the grand spectacle of a theatre stage that rewards performance over pummeling.
-  gerne: Fighting
+  genre: Fighting
   image: http://i.imgur.com/aYjfj7i.png
   gamewebsite: http://www.devolverdigital.com/games/view/foul-play
   devwebsite: http://www.mediatonicgames.com
@@ -708,7 +708,7 @@
 
 - name: GALAK-Z The Dimensional
   about: AN ADVANCED, OPEN-WORLD SPACE SHOOTER COMING SOON FOR PS4 AND WINDOWS!
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/MNYpKqP.jpeg
   gamewebsite: http://17-bit.com/galakz
   devwebsite: http://17-bit.com/
@@ -719,7 +719,7 @@
 
 - name: Gunship X
   about: Take control of an AC-130 and the new experimental AC-17 Gunship to defend humanity from invading hordes. Push back the intruders and give the humans a chance to be airlifted to safety.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/wGHycUr.jpeg
   gamewebsite: http://gunshipx.com
   devwebsite: http://wellformedpixels.com
@@ -730,7 +730,7 @@
 
 - name: Klaus
   about: Klaus is a 2D Platformer/Puzzle game coming soon to PS4 and PSVita Klausgame.com
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/wqcKwlV.png
   gamewebsite: http://la-cosa.net/#work
   devwebsite: http://la-cosa.net
@@ -741,7 +741,7 @@
 
 - name: Kodoku
   about: Kodoku is a self-published horror and exploration game for Playstation Vita and Playstation 4.
-  gerne: Horror
+  genre: Horror
   image: http://i.imgur.com/8ufTb2I.jpeg
   gamewebsite: http://www.carnivorestudio.com/kodoku/
   devwebsite: http://www.carnivorestudio.com/
@@ -752,7 +752,7 @@
 
 - name: Kyn
   about: AN ACTION PACKED RPG COMING TO YOUR PC
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/J8C65Gz.jpeg
   gamewebsite: http://vsevil.net/Kodoku
   devwebsite: http://vsevil.net/
@@ -763,7 +763,7 @@
 
 - name: Legend of Raven
   about: The year was December 25th, 1926. Japan was on the verge of welcoming a new era…the era of “Koubun”.
-  gerne: Fighting
+  genre: Fighting
   image: http://i.imgur.com/p8AfK69.png
   gamewebsite: http://nicalis.com/legendofraven/
   devwebsite: http://nicalis.com/
@@ -774,7 +774,7 @@
 
 - name: MechRunner
   about: An endless arcade action game that casts you as a powerful mech in stunning cinematic battles against a relentless robotic army.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/Bmcl6Lp.png
   gamewebsite: http://www.mechrunner.com
   devwebsite: http://www.sparkpluggames.com
@@ -785,7 +785,7 @@
 
 - name: Not a Hero
   about: ​When an anthropomorphic rabbit/mayoral candidate from the future named BunnyLord needs a murderous loner to clean up the city during the election, Steve heroically offers up his dubious skills with a gun and lack of self-preservation instinct to this mysterious stranger from beyond.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/nxIVeyS.png
   gamewebsite: http://www.devolverdigital.com/games/view/not-a-hero
   devwebsite: http://www.roll7.co.uk
@@ -796,7 +796,7 @@
 
 - name: One Way Trip
   about: One Way Trip is an upcoming RPG that takes you on a wildly surreal journey through a trippy sci-fi future full of bright colors and dark secrets. When a mass poisoning leaves much of the nation with only six hours left to live, during which time they will be hallucinating constantly, you and your brother must decide how to spend them and whether or not to hunt for a cure!
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/0RGpnZv.jpeg
   gamewebsite: https://www.youtube.com/watch?v=AauIfwEVf8w
   devwebsite: https://www.youtube.com/watch?v=AauIfwEVf8w
@@ -807,7 +807,7 @@
 
 - name: Ray’s The Dead
   about: In Ray’s The Dead, you take on the role of Ray, the newly arisen zombie! In this single player, story driven Action-Stealth-Puzzler, join Ray as he makes the most unlikely friendships 
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/BdMcPRZ.png
   gamewebsite: http://ragtagstudio.com/?page_id=457
   devwebsite: http://ragtagstudio.com/
@@ -818,7 +818,7 @@
 
 - name: Salt and Sanctuary
   about: Salt and Sanctuary the fourth game by Ska Studios, is a 2D hardcore action RPG that blends the brutal signature combat of The Dishwasher with an unforgiving world of demons and dungeons, traps and treasure, and gallows and graveyards.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/lmvI5DJ.jpeg
   gamewebsite: http://www.ska-studios.com/salt/
   devwebsite: http://ska-studios.com/
@@ -829,7 +829,7 @@
 
 - name: Soft Body
   about: Soft Body is a soothing bullet hell set in a meditative, musical world. As the player paints the worlds geometry, levels will constantly shift and rearrange themselves in order to trick, trap, and challenge the player.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/NXrEJrp.gif
   gamewebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
   devwebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
@@ -840,7 +840,7 @@
 
 - name: Starbound
   about: In Starbound, you take on the role of a character who’s just fled from their home planet, only to crash-land on another. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/wtRieCM.gif
   gamewebsite: http://playstarbound.com
   devwebsite: http://chucklefish.org
@@ -851,7 +851,7 @@
 
 - name: SteamWorld Heist
   about: SteamWorld Heist is a game about space adventures and survival. Recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/BsuUxn9.jpeg
   gamewebsite: http://steamworldgames.com/heist/
   devwebsite: http://steamworldgames.com/
@@ -862,7 +862,7 @@
 
 - name: Super Exploding Zoo
   about: Fuelled by hunger and convenience of the planet, the greedy aliens have landed at the Zoo System to feast on delicious eggs. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/ha5BfNH.jpeg
   gamewebsite: http://www.superexplodingzoo.com
   devwebsite: http://www.honeyslug.com
@@ -873,7 +873,7 @@
 
 - name: To Leave
   about: By using his treasured flying Door, young Harm struggles to leave behind his sophisticating life in the ravenous megalopolis of Pyre, who now in turn seeks to devour him.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/fH4dRRW.jpeg
   gamewebsite: http://freakycreations.net
   devwebsite: http://freakycreations.net
@@ -884,7 +884,7 @@
 
 - name: Volume
   about: Locksley does not kill. That would be far too easy. Instead, he commits his crimes through stealth. He sneaks, he distracts, he avoids.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/dQzxpOA.jpeg
   gamewebsite: http://www.mikebithellgames.com/volume/
   devwebsite: http://www.mikebithellgames.com/
@@ -895,7 +895,7 @@
 
 - name: Badland
   about: BADLAND is a multi-award-winning side-scrolling action adventure game with innovative physics-based gameplay
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/UAfUlPY.jpeg
   gamewebsite: http://www.badlandgame.com
   devwebsite: http://www.badlandgame.com/badland-game/
@@ -906,7 +906,7 @@
 
 - name: Bigfest
   about: Revealed at Gamescom 2013 for PS Vita, BigFest is about building your own festival that will promote real, unsigned bands.
-  gerne: Simulator
+  genre: Simulator
   image: http://i.imgur.com/id138IR.jpeg
   gamewebsite: http://uk.playstation.com/bigfest/
   devwebsite: http://playstation.com/
@@ -917,7 +917,7 @@
 
 - name: Chroma Squad
   about: Tactical turn-based manager game, with sentai heroes and old-school pixel art! Everything you want in a fresh indie game!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/kZSx9sU.jpeg
   gamewebsite: http://www.chromasquad.com
   devwebsite: http://beholdstudios.com.br
@@ -928,7 +928,7 @@
 
 - name: Helldivers
   about: “The upcoming game HELLDIVERS is a topdown shooter set in a satirical dystopian future where mankind is ruled by a managed democracy. 
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/lWMMBfx.jpeg
   gamewebsite: http://arrowheadgamestudios.com/games/
   devwebsite: http://arrowheadgamestudios.com
@@ -939,7 +939,7 @@
 
 - name: Hotline Miami 2 Wrong Number
   about: Hotline Miami 2 Wrong Number is an upcoming 2D top-down action video game, developed by Dennaton Games and published by Devolver Digital.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/0DFVL8o.png
   gamewebsite: http://www.dennaton.com
   devwebsite: http://www.devolverdigital.com/games/view/hotline-miami-2-wrong-number
@@ -950,7 +950,7 @@
 
 - name: J-Stars Victory VS+
   about: For the 45th anniversary of the “Shonen Jump” magazine and the 20tth anniversary of the “V Jump” magazine a never before seen fighting game has been developed.
-  gerne: Fighting
+  genre: Fighting
   image: http://i.imgur.com/fxV7N7F.jpeg
   gamewebsite: http://www.bandaigames.channel.or.jp/list/jump45/pc/
   devwebsite: http://www.spike-chunsoft.co.jp/company_e/information.html
@@ -961,7 +961,7 @@
 
 - name: LEGO Avengers
   about: Avengers Assemble! Experience the first console video game featuring characters and storylines from the blockbuster film Marvel
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/xN3AvhA.png
   gamewebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
   devwebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
@@ -972,7 +972,7 @@
 
 - name: LEGO Jurassic World
   about: An adventure 65 million years in the making - now in classic LEGO brick fun!
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/aSngVWi.png
   gamewebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
   devwebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
@@ -983,7 +983,7 @@
 
 - name: Metal Slug 3
   about: Is a run and gun video game developed by SNK.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/5WS44mE.jpeg
   gamewebsite: http://game.snkplaymore.co.jp/game/steam/metalslug3/
   devwebsite: http://www.snkplaymore.co.jp/us/
@@ -994,7 +994,7 @@
 
 - name: MilitAnt
   about: MilitAnt™ is an action-packed side-scrolling platform/shooter by independent game developer Xibalba Studios.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/9MX4DTK.jpeg
   gamewebsite: http://www.militantgame.com
   devwebsite: http://www.xibalbastudios.com/
@@ -1005,7 +1005,7 @@
 
 - name: Murasaki Mist
   about: Murasaki Mist is an Action/RPG based on a dynamic battle system that allows the player to define the strategy of the game itself.
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/uFnXIsB.jpeg
   gamewebsite: http://hollowgames.com.mx/murasaki-mist/
   devwebsite: http://hollowgames.com.mx/
@@ -1016,7 +1016,7 @@
 
 - name: Ninjin Clash of Carrots
   about: Ninjin Clash of Carrots is a frenetic and stylish action game that combines fast paced modern gameplay with the best elements of old-school genres like shoot 'em ups, beat em ups and the exploratory freedom of Musou game series.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/NrLrDTb.jpeg
   gamewebsite: http://www.pocket-trap.com/clash-of-carrots.html
   devwebsite: http://www.pocket-trap.com
@@ -1027,7 +1027,7 @@
 
 - name: Nuclear Throne
   about: Nuclear Throne is Vlambeers latest action roguelike-like about mutants that spend their workdays trying to fight for the throne in a post-apocalyptic world.
-  gerne: Shooter
+  genre: Shooter
   image: http://i.imgur.com/7V8Di0i.gif
   gamewebsite: http://nuclearthrone.com
   devwebsite: http://vlambeer.com
@@ -1038,7 +1038,7 @@
 
 - name: One Piece Pirate Warriors 3
   about: One Piece Pirate Warriors 3 action game began streaming four new character gameplay videos on Wednesday.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/4XwVPow.jpeg
   gamewebsite: http://www.bandaigames.channel.or.jp/list/opm/pc/?
   devwebsite: http://www.bandainamcogames.co.jp
@@ -1049,7 +1049,7 @@
 
 - name: Shovel Knight
   about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games. 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/I0oJikt.jpeg
   gamewebsite: http://yachtclubgames.com/shovel-knight/
   devwebsite: http://yachtclubgames.com/
@@ -1060,7 +1060,7 @@
 
 - name: Starwhal
   about: Flop it out with 2-4 players in a retro, epic narwhal battle in space! The heart-piercing action is furious and unrelenting.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/VSNf5RV.gif
   gamewebsite: http://www.starwhal.com
   devwebsite: http://breakfall.ca
@@ -1071,7 +1071,7 @@
 
 - name: Ultratron
   about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/LC1yuhQ.jpeg
   gamewebsite: http://www.puppygames.net/ultratron/
   devwebsite: http://www.puppygames.net/
@@ -1082,7 +1082,7 @@
 
 - name: Energy Hook
   about: Of all I’ve done in my twenty-something year career, I’m still most proud of inventing the dynamic, physical swinging system in Spider-Man 2…
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/Do4fkG4.png
   gamewebsite: http://www.happionlabs.com/energy-hook/
   devwebsite: http://www.happionlabs.com/
@@ -1093,7 +1093,7 @@
 
 - name: Nova-111 A Cosmic Voyage
   about: NOVA-111 is a sci-fi themed turn-based adventure game with a twist of real-time action! Fighting aliens in space for SCIENCE!
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/cYkPliD.jpeg
   gamewebsite: http://www.nova111.com
   devwebsite: http://funktroniclabs.com
@@ -1104,7 +1104,7 @@
 
 - name: Fenix Rage
   about: From Green Lava Studios, Fenix Rage is an inspired, frenetically-paced, challenging, and aggressively addicting 2D action platformer that will keep one’s palms sweaty, thumbs fatigued, and wits sharp. Gamers take on the role of Fenix, whose village is decimated by a huge explosion, leaving only two survivors – Fenix and Oktarus, a mysterious figure who manages to elude Fenix’s best efforts at capture.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/AgrTmBr.jpeg
   gamewebsite: http://www.fenixrage.com
   devwebsite: http://greenlavastudios.com
@@ -1115,7 +1115,7 @@
 
 - name: Wild Season
   about: Congratulations! After weeks of being down on your luck in the big city, youve found your calling farming! 
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/M3cG8Nd.jpeg
   gamewebsite: http://quickfire-games.com/wild-season/
   devwebsite: http://quickfire-games.com/
@@ -1126,7 +1126,7 @@
 
 - name: Roundabout
   about: Part open world, part puzzle game, all twisted. In Roundabout, players drive passengers in a constantly revolving limhttp://i.imgur.com/uDCzBct.jpgousine to their destinations.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/lNS0sQk.jpeg
   gamewebsite: http://roundaboutgame.com
   devwebsite: http://nogoblin.com
@@ -1137,7 +1137,7 @@
 
 - name: We Are Doomed!
   about: WE ARE DOOMED is a twin-stick shooter where you zap polygon baddies with an absurdly overpowered laserbeam.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/nPWNzdt.jpeg
   gamewebsite: http://www.vertexpop.com/wearedoomed/
   devwebsite: http://www.vertexpop.com/
@@ -1148,7 +1148,7 @@
   
 - name: Hatoful Boyfriend
   about: Congratulations! You’ve been accepted as the only human student at the prestigious St. PigeoNation’s Institute, a school for talented pigeons.
-  gerne: Simulator
+  genre: Simulator
   image: http://i.imgur.com/RLDmNFE.jpeg
   gamewebsite: http://www.mediatonicgames.com/hatoful-boyfriend
   devwebsite: http://www.mediatonicgames.com
@@ -1159,7 +1159,7 @@
 
 - name: Poncho
   about: A Platformer like nothing seen before in games, explore this open-world puzzler in multiple dimensions on a journey to find your maker.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/okvPW5p.gif
   gamewebsite: http://poncho-game.com
   devwebsite: http://poncho-game.com/?page_id=7
@@ -1170,7 +1170,7 @@
 
 - name: Project Root
   about: Project Root is a classic Shoot'Em Up, faithful to its roots, made unique with modern elements with a free camera system giving a freedom to action not seen before.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/Efxc3P0.jpeg
   gamewebsite: http://www.opqam.com
   devwebsite: http://opqam.com
@@ -1181,7 +1181,7 @@
 
 - name: Space Hulk Ascension
   about: Space Hulk Ascension Edition is a 3D, digital, turn based, strategy game, which builds upon the classic board game experience, and adds new RPG style mechanics, additional weapons, enemy types, an all-new chapter and loads of other new features. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/IwtB2iV.png
   gamewebsite: http://www.spacehulk-ascension.com
   devwebsite: http://www.spacehulk-ascension.com
@@ -1192,7 +1192,7 @@
 
 - name: Geometry Wars 3 Dimensions
   about: Geometry Wars 3 Dimensions is an exciting new evolution of the iconic, fast-paced and frenetic Geometry Wars™ gameplay fans love, and will introduce full 3D action and competitive online multiplayer for the first time in the franchise.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/1QzjP8B.jpeg
   gamewebsite: http://www.sierra.com/geometrywars
   devwebsite: http://www.sierra.com/
@@ -1204,7 +1204,7 @@
 
 - name: Darkest Dungeon
   about: Darkest Dungeon is a challenging gothic RPG about the stresses of dungeon crawling
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/060qOr0.jpeg
   gamewebsite: http://www.darkestdungeon.com
   devwebsite: http://www.darkestdungeon.com
@@ -1215,7 +1215,7 @@
 
 - name: Super Time Force Ultra
   about: SUPER TIME FORCE IS AN INSANE ACTION GAME FILLED WITH ROBOTS AND DINOSAURS AND FUN AND TIME TRAVEL!
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/O2NgLFf.jpeg
   gamewebsite: http://supertimeforce.com
   devwebsite: http://www.capybaragames.com
@@ -1226,7 +1226,7 @@
 
 - name: Day of the Tentacle Special Edition
   about: 
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/rlKDME4.png
   gamewebsite: http://www.doublefine.com/games
   devwebsite: http://www.doublefine.com/
@@ -1237,7 +1237,7 @@
 
 - name: The Banner Saga
   about: The Banner Saga is an epic role-playing game inspired by Viking legend. 
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/un2UCt5.jpeg
   gamewebsite: http://stoicstudio.com
   devwebsite: http://stoicstudio.com
@@ -1248,7 +1248,7 @@
 
 - name: Project Scissors
   about: A brand new horror game from Hifumi Kono the creator of the Clock Tower game series and Takashi Shimizu the director of The Grudge.
-  gerne: Horror
+  genre: Horror
   image: http://i.imgur.com/2mFTEEc.jpeg
   gamewebsite: http://www.night-cry.com
   devwebsite: http://www.playism-games.com
@@ -1259,7 +1259,7 @@
 
 - name: Project Light
   about: Project Light (codename) is a modern 3D turn-based Japanese-style RPG set in an underground cyberpunk world ruled by a fierce empire.
-  gerne: Adventure
+  genre: Adventure
   image: http://i.imgur.com/gK6LcX2.png
   gamewebsite: http://neko.works/index.php?static=projectlight
   devwebsite: http://neko.works/
@@ -1270,7 +1270,7 @@
 
 - name: Robonauts
   about: Robonauts will let the players explore uncharted planets face mysterious enemies and use loads of fun weapons and technology.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/ff56HNN.jpeg
   gamewebsite: http://www.qubicgames.com/en/robonauts
   devwebsite: http://www.qubicgames.com/en/
@@ -1281,7 +1281,7 @@
 
 - name: 2 Fast 4 Gnomz
   about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/v0y9yzM.png
   gamewebsite: http://www.qubicgames.com/en/2-fast-4-gnomz
   devwebsite: http://www.qubicgames.com/en/
@@ -1292,7 +1292,7 @@
 
 - name: Air Race Speed
   about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
-  gerne: Racer
+  genre: Racer
   image: http://i.imgur.com/PQKWJmt.jpeg
   gamewebsite: http://www.airacespeed.com
   devwebsite: http://www.qubicgames.com/en/
@@ -1303,7 +1303,7 @@
 
 - name: Hyperdimension Neptunia U
   about: The hack-'n'-slash stylings of the game are accompanied by the ability to switch out characters on the fly during real time battles special skills an armor degradation system and more.
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/1JXTDLT.jpeg
   gamewebsite: http://ideafintl.com/neptunia-u/
   devwebsite: http://ideafintl.com
@@ -1314,7 +1314,7 @@
 
 - name: Ethereal
   about: Ethereal's story follows the nameless protagonist through seven of his most traumatic memories.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/lNPBn0h.png
   gamewebsite: http://www.etherealgame.net/
   devwebsite: http://forums.tigsource.com/index.php?topic=35342.0
@@ -1325,7 +1325,7 @@
 
 - name: Betty Boop Bop 
   about: Betty Boop Bop is a music game designed for multi-touch devices. Out now on iOS Android and coming soon to PS Vita. Click on the links to get the game now!
-  gerne: Rhythm
+  genre: Rhythm
   image: http://i.imgur.com/0kQB074.jpeg
   gamewebsite: http://fowlmoon.com/bbb
   devwebsite: http://fowlmoon.com/
@@ -1336,7 +1336,7 @@
 
 - name: A.N.N.E
   about: A.N.N.E is an exciting game blending platforming and a shootem up gameplay with a touch of RPG elements. 
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/EFw5KMB.jpeg
   gamewebsite: http://annethegame.blogspot.nl 
   devwebsite: http://www.gamesbymo.com
@@ -1347,7 +1347,7 @@
 
 - name: 99bricks
   about: 99 Bricks Wizard Academy is a fun and fast paced endless physics builder.
-  gerne: Puzzle
+  genre: Puzzle
   image: http://i.imgur.com/ZeIVTTy.jpg
   gamewebsite: http://99bricks.net  
   devwebsite: http://weirdbeard.nl
@@ -1358,7 +1358,7 @@
 
 - name: Moon Hunters
   about: Moon Hunters could be described as a mythology generator. Many games have tackled the goal of exploring a fantastical kingdom
-  gerne: RPG
+  genre: RPG
   image: http://i.imgur.com/wIE1oSO.gif
   gamewebsite: http://www.moonhuntersgame.com
   devwebsite: http://www.kitfoxgames.com
@@ -1369,7 +1369,7 @@
 
 - name: Drift Stage
   about: Drift Stage is a modern evolution of the classic arcade racer
-  gerne: Racer
+  genre: Racer
   image: http://i.imgur.com/dDO8d9D.jpeg
   gamewebsite: http://www.driftstagegame.com
   devwebsite: http://www.driftstagegame.com
@@ -1380,7 +1380,7 @@
 
 - name: Scram Kitty DX 
   about: enhanced version of last years critical hit Scram Kitty and his Buddy on Rails
-  gerne: Action
+  genre: Action
   image: http://i.imgur.com/bTssTHI.png
   gamewebsite: http://www.dakkodakko.com/site/
   devwebsite: http://www.dakkodakko.com/site/
@@ -1391,7 +1391,7 @@
 
 - name: World Rally Championship (WRC) 5
   about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
-  gerne: Racer
+  genre: Racer
   image: http://i.imgur.com/tXtrHsl.png
   gamewebsite: http://www.badlandgame.com
   devwebsite: http://www.wrc.com/en/

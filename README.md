@@ -17,7 +17,7 @@ Copy this:
 ```yaml
 - name: Can't use ":"
   about: Can't use ":"
-  gerne: Only one gerne
+  genre: Only one genre
   image: Upload to imgur.com and URL must contain .jpg or .gif
   gamewebsite: 
   devwebsite: 

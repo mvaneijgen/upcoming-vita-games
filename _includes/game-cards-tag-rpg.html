@@ -8,7 +8,7 @@
 
 {% for game in site.data.games %}
 {% if game.released == false %} 
-{% if game.gerne == 'RPG' %} 
+{% if game.genre == 'RPG' %} 
   <div class="column">
     <div class="ui fluid card">
       <div class="dimmable image">
@@ -25,7 +25,7 @@
         <div class="header">{{ game.name }}</div>
         <div class="meta">
           <div class="group">
-            {{ game.gerne }}
+            {{ game.genre }}
 
           </div>
           <div class="releasedate">Release date:{{ game.releasedate }}</div>
