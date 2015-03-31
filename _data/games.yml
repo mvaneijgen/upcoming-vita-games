@@ -24,6 +24,17 @@
   western: true
   released: false
 
+- name: Run Sackboy! Run!
+  about: Sackboy scampers back to the PS Vita this week with the release of our free-to-play, platform-survival game – Run Sackboy! Run!
+  gerne: Action
+  image: http://i.imgur.com/06k6jLb.jpg
+  gamewebsite: http://www.playstationnetwork.com
+  devwebsite: http://www.playstationnetwork.com
+  dateadd: 2015-03-31
+  releasedate: 
+  western: true
+  released: true
+
 - name: Rainbow Skies
   about: From the makers of Rainbow Moon comes Rainbow Skies, a new fantasy role-playing game.
   gerne: RPG
@@ -48,7 +59,7 @@
 
 - name: Shantae Half-Genie Hero
   about: Shantae Half-Genie Hero continues the tradition of action/adventure in the spirit of Metroid, Castlevania, and the Legend of Zelda.
-  gerne: Action Adventure
+  gerne: Action
   image: http://i.imgur.com/eSdX5Hk.jpg
   gamewebsite: http://wayforward.com/games/shantae-half-genie-hero/  
   devwebsite: http://wayforward.com/
@@ -70,7 +81,7 @@
 
 - name: Hyper Light Drifter
   about:  2D Action RPG in the vein of the best 8-bit and 16-bit classics, with modernized mechanics and designs on a much grander scale.
-  gerne: Action RPG
+  gerne: RPG
   image: http://i.imgur.com/baN6DmU.jpeg
   gamewebsite: http://www.heart-machine.com/
   devwebsite: http://www.heart-machine.com/home1/
@@ -81,7 +92,7 @@
 
 - name: Hand of Fate
   about: Inspired by tarot and fantasy, all bets are off as you create your own journey by building a collection of cards used to deal out a boardgame-like dungeon teeming with enemies, treasure and adventure. 
-  gerne: Deck building/Action RPG
+  gerne: Card game
   image: http://i.imgur.com/gAxzu19.jpeg
   gamewebsite: http://www.defiantdev.com/hofpress/
   devwebsite: http://www.defiantdev.com/
@@ -129,7 +140,7 @@
   image: http://i.imgur.com/NKo7xLV.jpeg
   gamewebsite: http://www.ttgames.com/games/
   devwebsite: http://www.ttgames.com
-  dateadd: 2015-02-12
+  dateadd: 2015-03-22
   releasedate: 
   western: true
   released: false
@@ -152,20 +163,20 @@
   gamewebsite: http://toukiden.eu/kiwami/
   devwebsite: http://www.koeitecmoeurope.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-03-29
   western: true
-  released: false
+  released: true
 
 - name: MLB 15 THE SHOW
   about: Baseball is better than ever in MLB 15 The Show.
-  gerne: Sports
+  gerne: Sport
   image: http://i.imgur.com/q8IOf4b.jpeg
   gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
   devwebsite: http://www.worldwidestudios.net/sandiego
   dateadd: 2015-02-12
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: The Swindle
   about: The Swindle is a Steampunk cybercrime game. It’s a little bit Steampunk, a little bit cyberpunk – and every level is unique.
@@ -180,14 +191,14 @@
 
 - name: OlliOlli 2 Welcome to Olliwood
   about: Our iconic ‘skater’ is going all green-screen and getting radical at Olliwood Studios, plucking the player from the street and dropping him squarely in the middle of the Big Screen’s most bodacious cinematic locations.
-  gerne: 2D 
+  gerne: Sport 
   image: http://i.imgur.com/kw48nuc.jpeg
   gamewebsite: http://www.roll7.co.uk/#!olliolli2/ccko
   devwebsite: http://www.roll7.co.uk
   dateadd: 2015-02-12
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: Ascension Chronicle of the Godslayer
   about: Ascension is a fast-paced deckbuilding game that’s quick to learn, easy to setup, and packed with endless hours of replay value!
@@ -284,9 +295,9 @@
   gamewebsite: https://www.youtube.com/watch?v=0WYwgbxJLsE&feature=youtu.be
   devwebsite: http://iguanabee.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-04-01
   western: true
-  released: false
+  released: true
 
 - name: Octodad Dadliest Catch
   about: Octodad Dadliest Catch is the sequel to the splash hit, Octodad! This time, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact?
@@ -345,7 +356,7 @@
 
 - name: Resident Evil Revelations 2
   about: Resident Evil Revelations 2 will be set between the events of Resident Evil 5 and Resident Evil 6.
-  gerne: Survival horror
+  gerne: horror
   image: http://i.imgur.com/H0kzOt6.jpeg
   gamewebsite: http://www.residentevil.net/en/
   devwebsite: http://www.capcom.com
@@ -405,9 +416,9 @@
   gamewebsite: http://www.activision.com/au/en/games/spongebob/spongebob-hero-pants
   devwebsite: http://www.bhvr.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-02-18
   western: true
-  released: false
+  released: true
 
 - name: Squares
   about: Simple yet challenging. It will never stop rewarding you. Squariness is the objective.
@@ -422,7 +433,7 @@
 
 - name: Towerfall Ascension
   about: TowerFall is an archery combat platformer for up to 4 players
-  gerne: platformer
+  gerne: Action
   image: http://i.imgur.com/nbMQp3o.jpg
   gamewebsite: http://www.towerfall-game.com
   devwebsite: http://www.mattmakesgames.com
@@ -444,7 +455,7 @@
 
 - name: Steins;Gate
   about: Set in Akihabara the Mecca of Japanese anime culture Steins;Gate follows a group of friends who accidentally invent a method of sending messages to the past.
-  gerne: Mystery
+  gerne: Adventure
   image: http://i.imgur.com/jWIpqcm.jpeg
   gamewebsite: http://www.steinsgategame.com/
   devwebsite: http://www.pqube.co.uk/
@@ -499,7 +510,7 @@
 
 - name: Aztez
   about: In Aztez, you expand and maintain the Aztec empire through turn-based strategy, while managing violent outbreaks via real-time beat 'em up sequences. 
-  gerne: Strategy
+  gerne: Action
   image: http://i.imgur.com/w3I7H4q.gif
   gamewebsite: http://aztez.com
   devwebsite: http://teamcolorblind.com
@@ -554,7 +565,7 @@
 
 - name: Spectra 8bit Racing
   about: From new studio GATEWAY INTERACTIVE and CHIPZEL (The artist behind the Super Hexagon music) comes Spectra, a fast paced retro style racing game destined to get your heart pumping and test your skill like no other!
-  gerne: Race
+  gerne: Racer
   image: http://i.imgur.com/j6oWMhq.jpeg
   gamewebsite: http://www.spectragame.com
   devwebsite: http://gatewayinteractive.co.uk
@@ -598,7 +609,7 @@
 
 - name: Shu
   about: Shu is a beautiful and engrossing platformer that we’re bringing to PC and consoles with our friends at Secret Lunch.
-  gerne: Platformer
+  gerne: Action
   image: http://i.imgur.com/bJucYpQ.jpeg
   gamewebsite: http://coatsink.com/games/shu
   devwebsite: http://coatsink.com/
@@ -669,9 +680,9 @@
   gamewebsite: http://www.laughingjackal.co.uk/games/flame-over
   devwebsite: http://www.laughingjackal.co.uk
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate: 2015-03-22
   western: true
-  released: false
+  released: true
 
 - name: forma.8
   about: In a distant future, the small exploration probe forma.8 is stranded alone on the surface of an alien planet. It will face great perils, discover ancient civilisations and dystopian visions. 
@@ -895,7 +906,7 @@
 
 - name: Bigfest
   about: Revealed at Gamescom 2013 for PS Vita, BigFest is about building your own festival that will promote real, unsigned bands.
-  gerne: Sim
+  gerne: Simulator
   image: http://i.imgur.com/id138IR.jpeg
   gamewebsite: http://uk.playstation.com/bigfest/
   devwebsite: http://playstation.com/
@@ -906,7 +917,7 @@
 
 - name: Chroma Squad
   about: Tactical turn-based manager game, with sentai heroes and old-school pixel art! Everything you want in a fresh indie game!
-  gerne: Strategy
+  gerne: Action
   image: http://i.imgur.com/kZSx9sU.jpeg
   gamewebsite: http://www.chromasquad.com
   devwebsite: http://beholdstudios.com.br
@@ -924,7 +935,7 @@
   dateadd: 2015-03-13
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: Hotline Miami 2 Wrong Number
   about: Hotline Miami 2 Wrong Number is an upcoming 2D top-down action video game, developed by Dennaton Games and published by Devolver Digital.
@@ -935,7 +946,7 @@
   dateadd: 2015-02-13
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: J-Stars Victory VS+
   about: For the 45th anniversary of the “Shonen Jump” magazine and the 20tth anniversary of the “V Jump” magazine a never before seen fighting game has been developed.
@@ -977,9 +988,9 @@
   gamewebsite: http://game.snkplaymore.co.jp/game/steam/metalslug3/
   devwebsite: http://www.snkplaymore.co.jp/us/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-03-22
   western: true
-  released: false
+  released: true
 
 - name: MilitAnt
   about: MilitAnt™ is an action-packed side-scrolling platform/shooter by independent game developer Xibalba Studios.
@@ -1049,7 +1060,7 @@
 
 - name: Starwhal
   about: Flop it out with 2-4 players in a retro, epic narwhal battle in space! The heart-piercing action is furious and unrelenting.
-  gerne: Multiplayer
+  gerne: Action
   image: http://i.imgur.com/VSNf5RV.gif
   gamewebsite: http://www.starwhal.com
   devwebsite: http://breakfall.ca
@@ -1060,7 +1071,7 @@
 
 - name: Ultratron
   about: Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron 2084, updated and improved for the 21st century!
-  gerne: Arcade
+  gerne: Action
   image: http://i.imgur.com/LC1yuhQ.jpeg
   gamewebsite: http://www.puppygames.net/ultratron/
   devwebsite: http://www.puppygames.net/
@@ -1137,7 +1148,7 @@
   
 - name: Hatoful Boyfriend
   about: Congratulations! You’ve been accepted as the only human student at the prestigious St. PigeoNation’s Institute, a school for talented pigeons.
-  gerne: Sim
+  gerne: Simulator
   image: http://i.imgur.com/RLDmNFE.jpeg
   gamewebsite: http://www.mediatonicgames.com/hatoful-boyfriend
   devwebsite: http://www.mediatonicgames.com
@@ -1159,7 +1170,7 @@
 
 - name: Project Root
   about: Project Root is a classic Shoot'Em Up, faithful to its roots, made unique with modern elements with a free camera system giving a freedom to action not seen before.
-  gerne: Shoot'em up
+  gerne: Action
   image: http://i.imgur.com/Efxc3P0.jpeg
   gamewebsite: http://www.opqam.com
   devwebsite: http://opqam.com
@@ -1170,7 +1181,7 @@
 
 - name: Space Hulk Ascension
   about: Space Hulk Ascension Edition is a 3D, digital, turn based, strategy game, which builds upon the classic board game experience, and adds new RPG style mechanics, additional weapons, enemy types, an all-new chapter and loads of other new features. 
-  gerne: trategy
+  gerne: Action
   image: http://i.imgur.com/IwtB2iV.png
   gamewebsite: http://www.spacehulk-ascension.com
   devwebsite: http://www.spacehulk-ascension.com
@@ -1270,7 +1281,7 @@
 
 - name: 2 Fast 4 Gnomz
   about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
-  gerne: Platformer
+  gerne: Action
   image: http://i.imgur.com/v0y9yzM.png
   gamewebsite: http://www.qubicgames.com/en/2-fast-4-gnomz
   devwebsite: http://www.qubicgames.com/en/
@@ -1281,7 +1292,7 @@
 
 - name: Air Race Speed
   about: Air Race Speed is a solo time-trial racing game where you pilot the most powerful futuristic jets through 35 adrenaline-fuelled challenging tracks.
-  gerne: Race
+  gerne: Racer
   image: http://i.imgur.com/PQKWJmt.jpeg
   gamewebsite: http://www.airacespeed.com
   devwebsite: http://www.qubicgames.com/en/
@@ -1325,7 +1336,7 @@
 
 - name: A.N.N.E
   about: A.N.N.E is an exciting game blending platforming and a shootem up gameplay with a touch of RPG elements. 
-  gerne: Shootem up
+  gerne: Action
   image: http://i.imgur.com/EFw5KMB.jpeg
   gamewebsite: http://annethegame.blogspot.nl 
   devwebsite: http://www.gamesbymo.com
@@ -1356,10 +1367,9 @@
   western: true
   released: false
 
-
 - name: Drift Stage
   about: Drift Stage is a modern evolution of the classic arcade racer
-  gerne: Race
+  gerne: Racer
   image: http://i.imgur.com/dDO8d9D.jpeg
   gamewebsite: http://www.driftstagegame.com
   devwebsite: http://www.driftstagegame.com
@@ -1375,13 +1385,13 @@
   gamewebsite: http://www.dakkodakko.com/site/
   devwebsite: http://www.dakkodakko.com/site/
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate: 2015-03-22
   western: true
-  released: false
+  released: true
 
 - name: World Rally Championship (WRC) 5
   about: The WRC game series is taking a new shift with the introduction of Kylotonn and will benefit from new development tools and experienced European developers and many surprises are planned for fans in the game.
-  gerne: Race
+  gerne: Racer
   image: http://i.imgur.com/tXtrHsl.png
   gamewebsite: http://www.badlandgame.com
   devwebsite: http://www.wrc.com/en/

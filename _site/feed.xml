@@ -5,9 +5,9 @@
     <description>This website displays all the upcoming vita games with a screenshot of the game and links to both the game website and developer website. This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.</description>
     <link>http://mvaneijgen.nl/upcoming-vita-games/</link>
     <atom:link href="http://mvaneijgen.nl/upcoming-vita-games/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Feb 2015 13:08:28 +0100</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2015 13:08:28 +0100</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Tue, 31 Mar 2015 21:04:46 +0200</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2015 21:04:46 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
   </channel>
 </rss>

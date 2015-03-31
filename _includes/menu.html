@@ -1,14 +1,15 @@
 <div class="ui menu">
   <div class="left menu">
     {% if site.pagebar %}
-      <a class="mobile item pagebar" href="#"><i class="icon content"></i></a>      
+    <a class="mobile item pagebar" href="#"><i class="icon content"></i></a>      
     {% endif %}
+    <a class="header item" href="{{ site.baseurl }}/">Upcoming vita games</a>
   </div>
-  <a class="header item" href="{{ site.baseurl }}/">Upcoming vita games</a>
   <div class="right menu">
-    <a class="item menu-details" href="{{ site.baseurl }}/western/" data-position="bottom left" data-content="Show western releases only"><i class="euro icon"></i>Western</a>
-    <a class="item menu-details" href="{{ site.baseurl }}/non-western/" data-position="bottom left" data-content="Show non-western releases only"><i class="yen icon"></i>Non-western</a>
-    <a class="item menu-details" href="{{ site.baseurl }}/released/" data-position="bottom left" data-content="Show released"><i class="calendar icon"></i>Released games</a>
+    <a class="item menu-details" href="{{ site.baseurl }}/gerne/" data-position="bottom left" data-content="Filter games by gerne"><i class="tag icon"></i></a>
+    <a class="item menu-details" href="{{ site.baseurl }}/western/" data-position="bottom left" data-content="Show western releases only"><i class="euro icon"></i></a>
+    <a class="item menu-details" href="{{ site.baseurl }}/non-western/" data-position="bottom left" data-content="Show non-western releases only"><i class="yen icon"></i></a>
+    <a class="item menu-details" href="{{ site.baseurl }}/released/" data-position="bottom left" data-content="Show released"><i class="calendar icon"></i></a>
     <a class="item menu-details alt" href="https://github.com/mvaneijgen/upcoming-vita-games" data-position="bottom left" data-content="Help, keep this site up to date"><i class="icon announcement"></i>Update this site</a>
   </div>
 </div>

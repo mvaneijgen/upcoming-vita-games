@@ -1,0 +1,52 @@
+<div class="ui three column stackable grid special cards">
+
+{% if include.cards %}
+  {% assign count = include.cards %}
+{% else %}
+  {% assign count = site.recent_items %}
+{% endif %}
+
+{% for game in site.data.games %}
+{% if game.released == false %} 
+{% if game.gerne == 'Rhythm' %} 
+  <div class="column">
+    <div class="ui fluid card">
+      <div class="dimmable image">
+        <div class="ui inverted dimmer">
+          <div class="content">
+            <div class="center">
+              <a class="ui primary button" href="{{ game.gamewebsite }}">Launch website</a>
+            </div>
+          </div>
+        </div>
+        <img src="{{ game.image }}" alt="{{ game.name }}">
+      </div>
+      <div class="content">
+        <div class="header">{{ game.name }}</div>
+        <div class="meta">
+          <div class="group">
+            {{ game.gerne }}
+
+          </div>
+          <div class="releasedate">Release date:{{ game.releasedate }}</div>
+        </div>
+        <div class="description">
+          {{ game.about }}
+        </div>
+      </div>
+  
+      <div class="extra content">
+      <div class="dateadd">date add:{{ game.dateadd }}</div>
+          <div class="right floated created">
+          <a href="{{ game.gamewebsite }}"><i class="data icon game-features" data-content="data webiste" data-position="top right"></i></a> | 
+          <a href="{{ game.devwebsite }}"><i class="world icon game-features" data-content="Developer webiste" data-position="top right"></i></a>
+        </div>
+      </div>
+  
+  
+    </div>
+  </div> <!-- .column -->
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</div>  
