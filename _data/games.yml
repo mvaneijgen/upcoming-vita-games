@@ -13,9 +13,20 @@
 #  western: true|false
 #  released: true|false
 
+- name: MAHOUKA KOUKOU NO RETTOUSEI: OUT OF ORDER
+  about: Prepare to enter a world where magic has been harnessed, improved, and studied like that of modern technology - including all the troubles that come with it! Based on the popular media franchise the story follows Shiba Tatsuya and other students as they make their way through magic high school. Bandai Namco have adapted the manga into a "3D strategy magic battle action game" where you progress through an original story written by Tsutomi Satou with the potential for different endings.
+  genre: Action
+  image: http://i.imgur.com/n2rQ9oI.gif
+  gamewebsite: http://mahouka-ooo.bngames.net/
+  devwebsite: http://bandainamcoent.co.jp/
+  dateadd: 2015-04-01
+  releasedate: 
+  western: false
+  released: true
+
 - name: Danganronpa Another Episode Ultra Despair Girls
   about: After the horrors have ended at Hope’s Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa™ Another Episode Ultra Despair Girls, the pre-sequel to the highly popular mystery adventure game Danganronpa™ 2 Goodbye Despair, is coming to North America and Europe on the PlayStation®Vita this fall. 
-  genre: Adventure
+  genre: Action
   image: http://i.imgur.com/ghpTRVP.jpeg
   gamewebsite: http://nisamerica.com/index.php?nav=g
   devwebsite: http://nisamerica.com
@@ -455,7 +466,7 @@
 
 - name: Steins;Gate
   about: Set in Akihabara the Mecca of Japanese anime culture Steins;Gate follows a group of friends who accidentally invent a method of sending messages to the past.
-  genre: Adventure
+  genre: Visual Novel
   image: http://i.imgur.com/jWIpqcm.jpeg
   gamewebsite: http://www.steinsgategame.com/
   devwebsite: http://www.pqube.co.uk/
