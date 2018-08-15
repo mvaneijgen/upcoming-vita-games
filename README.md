@@ -9,7 +9,7 @@ This is a person project of my ([mvaneijgen](http://mvaneijgen.nl)) to 'up' my d
 ## Here are the steps to add or edit a game on the website
 
 ##### Step 1.
-Head over the the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/games.yml) and Click the edit button (the pencil icon top right)
+Head over to the [embeds.yml file](https://github.com/mvaneijgen/upcoming-vita-games/blob/gh-pages/_data/games.yml) and Click the edit button (the pencil icon top right)
 
 ##### Step 2.
 Copy this:
@@ -33,10 +33,10 @@ Paste It in the document on top (on line 13) and fill out the information of the
 ##### Step 4.
 Fill out the "Commit changes" form and hit the "Commit changes" button
 
-I'll will recieve your update and if everything seems fine I'll will accept the pull reqeust and your changes will be reflected on the website. 
+I'll receive your update and if everything seems fine I'll accept the pull request and your changes will be reflected on the website. 
 
 ----
 
 ## Credits
-The site is build on [Jekyll](http://jekyllrb.com) and uses the [Open Theme](https://github.com/open-start/opentheme) template.
+The site is built on [Jekyll](http://jekyllrb.com) and uses the [Open Theme](https://github.com/open-start/opentheme) template.
 Most content I used came from http://www.neogaf.com/forum/showthread.php?t=858508 
