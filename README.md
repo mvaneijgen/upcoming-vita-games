@@ -1,10 +1,10 @@
 # Upcoming vita games website 
 
-This website can be found [here](http://mvaneijgen.nl/upcoming-vita-games). The website is hosted a Github.com.
+This website can be found [here](http://mvaneijgen.nl/upcoming-vita-games). The website is hosted a [Github](github.com).
 
 ![Upcoming vita games website](http://i.imgur.com/BLWDI5X.jpeg "Upcoming vita games website ")
 
-This is a person project of my ([mvaneijgen](http://mvaneijgen.nl)) to 'up' my development skills, but mostly to create a visual pleasing and easy to find new upcoming vita games. The main goal of the project was to create a easy way for anyone to update the website, so everyone can contribute, the only thing you need is a [Github account](https://github.com/join).
+This is a personal project of my ([mvaneijgen](http://mvaneijgen.nl)) to 'up' my development skills, but mostly to create a visual pleasing and easy to find new upcoming vita games. The main goal of the project was to create a easy way for anyone to update the website, so everyone can contribute here. The only thing you need is a [Github account](https://github.com/join).
 
 ## Here are the steps to add or edit a game on the website
 
